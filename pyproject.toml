@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "toolqa"
+version = "0.1.0"
+description = ""
+authors = ["Quentin Herreros <quentin.herreros@elastic.co>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+tqdm = "^4.66.1"
+pandas = "^2.1.0"
+jupyterlab = "^4.0.5"
+jsonlines = "^4.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
