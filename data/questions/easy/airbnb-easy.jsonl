@@ -1,100 +1,250 @@
-{"oid": 28401491, "qid": "easy-airbnb-0000", "question": "What is the host's name for Hotel 46 Times Square, King Bed, Steps from it all in Theater District?", "answer": "Hotel 46 Times  Square"}
-{"oid": 29530393, "qid": "easy-airbnb-0001", "question": "What is the host's name for 1 BR Luxury Apt FiosTV Broadband Internet Self Chk in Graniteville?", "answer": "Temi"}
-{"oid": 23379980, "qid": "easy-airbnb-0002", "question": "What is the host's name for Stunning triplex in East Williamsburg in Williamsburg?", "answer": "Peter"}
-{"oid": 34377930, "qid": "easy-airbnb-0003", "question": "What is the host's name for Private room clean and comfortable in Brownsville?", "answer": "Rory"}
-{"oid": 26786014, "qid": "easy-airbnb-0004", "question": "What is the host's name for Luxury High Rise-Corner View-Walk to Times Square in Hell's Kitchen?", "answer": "Robert"}
-{"oid": 37575194, "qid": "easy-airbnb-0005", "question": "What is the host's name for Indoor Pool NYC in Jamaica Estates?", "answer": "Journey"}
-{"oid": 34327670, "qid": "easy-airbnb-0006", "question": "What is the host's name for Oasis, 15 min away from Manhattan in Bedford-Stuyvesant?", "answer": "Johny"}
-{"oid": 30805101, "qid": "easy-airbnb-0007", "question": "What is the host's name for Cozy, warm, bright entire basement apartment in Jamaica?", "answer": "Analee"}
-{"oid": 24932495, "qid": "easy-airbnb-0008", "question": "What is the host's name for Gorgeous, Large Brownstone with Backyard & Parking in Crown Heights?", "answer": "Shannan"}
-{"oid": 25091005, "qid": "easy-airbnb-0009", "question": "What is the host's name for Chefs apt w/ art, plants, books & strong coffee in Crown Heights?", "answer": "Evan"}
-{"oid": 38145720, "qid": "easy-airbnb-0010", "question": "How many days are Comfy & Quiet 1 Bedroom (id: 38145720) available during a year (365 days)?", "answer": "365"}
-{"oid": 24788345, "qid": "easy-airbnb-0011", "question": "How many days are Sunny Cozy Economic Garden Bedroom 4GR (id: 24788345) available during a year (365 days)?", "answer": "48"}
-{"oid": 24112882, "qid": "easy-airbnb-0012", "question": "How many days are Luxury home, 2700 sq ft, 20 m to airports/City/LI! (id: 24112882) available during a year (365 days)?", "answer": "94"}
-{"oid": 44270175, "qid": "easy-airbnb-0013", "question": "How many days are Beautiful little bedroom + private living room (id: 44270175) available during a year (365 days)?", "answer": "215"}
-{"oid": 22019665, "qid": "easy-airbnb-0014", "question": "How many days are Cozy Four Twenty Friendly Bedroom in Brooklyn (id: 22019665) available during a year (365 days)?", "answer": "0"}
-{"oid": 20930529, "qid": "easy-airbnb-0015", "question": "How many days are Home For Medical Professionals - \"The Abducens\" (id: 20930529) available during a year (365 days)?", "answer": "311"}
-{"oid": 46621316, "qid": "easy-airbnb-0016", "question": "How many days are Comfy HP“TWIN BED” 5 mins to LGA-US OPEN & 7 train (id: 46621316) available during a year (365 days)?", "answer": "365"}
-{"oid": 39466270, "qid": "easy-airbnb-0017", "question": "How many days are Prime location near Central Park !! (id: 39466270) available during a year (365 days)?", "answer": "247"}
-{"oid": 8903644, "qid": "easy-airbnb-0018", "question": "How many days are Modern Studio in Brooklyn (id: 8903644) available during a year (365 days)?", "answer": "177"}
-{"oid": 5112105, "qid": "easy-airbnb-0019", "question": "How many days are Home 4 Medical Professionals-Dwnst8 (id: 5112105) available during a year (365 days)?", "answer": "262"}
-{"oid": 28109325, "qid": "easy-airbnb-0020", "question": "What is the room type of 金城发suit3.  (single room with twin bed) (id: 28109325) in Flushing?", "answer": "Private room"}
-{"oid": 30726122, "qid": "easy-airbnb-0021", "question": "What is the room type of Brooklyn chic studio apartment! (id: 30726122) in Bedford-Stuyvesant?", "answer": "Entire home/apt"}
-{"oid": 30513487, "qid": "easy-airbnb-0022", "question": "What is the room type of Beautiful Private Bedroom with Balcony (id: 30513487) in Bedford-Stuyvesant?", "answer": "Private room"}
-{"oid": 32689549, "qid": "easy-airbnb-0023", "question": "What is the room type of Apartment near Coney Island beach (id: 32689549) in Coney Island?", "answer": "Entire home/apt"}
-{"oid": 33255656, "qid": "easy-airbnb-0024", "question": "What is the room type of 145 Mulberry-Spacious Studio (id: 33255656) in Little Italy?", "answer": "Entire home/apt"}
-{"oid": 30056182, "qid": "easy-airbnb-0025", "question": "What is the room type of *New *heart of brooklyn Brownstone second-floor walk-up close to trains and buses. (id: 30056182) in Kensington?", "answer": "Entire home/apt"}
-{"oid": 26403270, "qid": "easy-airbnb-0026", "question": "What is the room type of New Studio in UWS steps from Central Park #6122 (id: 26403270) in Upper West Side?", "answer": "Entire home/apt"}
-{"oid": 8657319, "qid": "easy-airbnb-0027", "question": "What is the room type of Interfaith Retreat Guest Rooms (Mary) (id: 8657319) in Chelsea?", "answer": "Private room"}
-{"oid": 4457077, "qid": "easy-airbnb-0028", "question": "What is the room type of Lovely Studio on the edge of the McGolrick Park (id: 4457077) in Greenpoint?", "answer": "Private room"}
-{"oid": 9001954, "qid": "easy-airbnb-0029", "question": "What is the room type of Designer 1Bd with Treelined Terrace (id: 9001954) in Prospect Heights?", "answer": "Entire home/apt"}
-{"oid": 29006260, "qid": "easy-airbnb-0030", "question": "What is the price of Adorable 1-bedroom place in Bronx. # 4 (id: 29006260) in Wakefield?", "answer": "$1,177 "}
-{"oid": 25537816, "qid": "easy-airbnb-0031", "question": "What is the price of Delightful 1BR in Midtown East by Sonder (id: 25537816) in Murray Hill?", "answer": "$138 "}
-{"oid": 53816128, "qid": "easy-airbnb-0032", "question": "What is the price of Chelsea Studio Apt (id: 53816128) in Chelsea?", "answer": "$786 "}
-{"oid": 42554731, "qid": "easy-airbnb-0033", "question": "What is the price of Travelers Paradise Steps from Empire State Bld (id: 42554731) in Midtown?", "answer": "$179 "}
-{"oid": 5119285, "qid": "easy-airbnb-0034", "question": "What is the price of Doesn't get any better than this!! (id: 5119285) in Williamsburg?", "answer": "$771 "}
-{"oid": 6015668, "qid": "easy-airbnb-0035", "question": "What is the price of Upper WestSide NYC Central Park II (id: 6015668) in Upper West Side?", "answer": "$715 "}
-{"oid": 12117478, "qid": "easy-airbnb-0036", "question": "What is the price of B & B in NYC!! (id: 12117478) in Washington Heights?", "answer": "$203 "}
-{"oid": 22922123, "qid": "easy-airbnb-0037", "question": "What is the price of Home Away From Home (id: 22922123) in Crown Heights?", "answer": "$750 "}
-{"oid": 14232235, "qid": "easy-airbnb-0038", "question": "What is the price of Artsy, Cozy 1 bedroom in Flatbush (id: 14232235) in East Flatbush?", "answer": "$197 "}
-{"oid": 51494259, "qid": "easy-airbnb-0039", "question": "What is the price of Beautiful room in Brooklyn (Bushwick) (id: 51494259) in Bushwick?", "answer": "$920 "}
-{"oid": 9964060, "qid": "easy-airbnb-0040", "question": "What is the minimum number of nights of Sunny 1 Bedroom in Park Slope near Prospect Park (id: 9964060) in Park Slope?", "answer": "8"}
-{"oid": 2454437, "qid": "easy-airbnb-0041", "question": "What is the minimum number of nights of Columbus Circle/Central Park/Hells Kitchen (id: 2454437) in Upper West Side?", "answer": "3"}
-{"oid": 55505614, "qid": "easy-airbnb-0042", "question": "What is the minimum number of nights of Harlem apartment (id: 55505614) in Harlem?", "answer": "1"}
-{"oid": 30977419, "qid": "easy-airbnb-0043", "question": "What is the minimum number of nights of Fab apt in historic Hell’s Kitchen. Private. Safe. (id: 30977419) in Hell's Kitchen?", "answer": "3"}
-{"oid": 46838370, "qid": "easy-airbnb-0044", "question": "What is the minimum number of nights of Great Value! Private room in the northeast bronx (id: 46838370) in Wakefield?", "answer": "2"}
-{"oid": 7688032, "qid": "easy-airbnb-0045", "question": "What is the minimum number of nights of UNBEATABLE LOCATION/TIMES SQUARE! (id: 7688032) in Hell's Kitchen?", "answer": "2"}
-{"oid": 37155999, "qid": "easy-airbnb-0046", "question": "What is the minimum number of nights of Private Queen Suite Times SQ, Boutique Hotel (id: 37155999) in Theater District?", "answer": "1"}
-{"oid": 46128664, "qid": "easy-airbnb-0047", "question": "What is the minimum number of nights of Cozy Zen-like Jungle in Bushwick (id: 46128664) in Bushwick?", "answer": "1"}
-{"oid": 28984720, "qid": "easy-airbnb-0048", "question": "What is the minimum number of nights of Bright & Modern Oasis near City/Trains/Hospitals (id: 28984720) in Bedford-Stuyvesant?", "answer": "2"}
-{"oid": 3882133, "qid": "easy-airbnb-0049", "question": "What is the minimum number of nights of 2BR Apt with huge outdoor space (id: 3882133) in Bedford-Stuyvesant?", "answer": "7"}
-{"oid": 7606844, "qid": "easy-airbnb-0050", "question": "When was of Bedroom for two near St Marks (id: 7606844) in East Village constructed?", "answer": "2016"}
-{"oid": 37682341, "qid": "easy-airbnb-0051", "question": "When was of Lovely one-bedroom in Hamilton Heights (id: 37682341) in Harlem constructed?", "answer": "2021"}
-{"oid": 42280238, "qid": "easy-airbnb-0052", "question": "When was of Great room great view /10min to heart of NYC (id: 42280238) in Maspeth constructed?", "answer": "2016"}
-{"oid": 5300439, "qid": "easy-airbnb-0053", "question": "When was of Spacious & Sunny Near McCarren Park (id: 5300439) in Greenpoint constructed?", "answer": "2022"}
-{"oid": 50397943, "qid": "easy-airbnb-0054", "question": "When was of Jefferson Estates (id: 50397943) in Bedford-Stuyvesant constructed?", "answer": "2012"}
-{"oid": 18658919, "qid": "easy-airbnb-0055", "question": "When was of VERY BIG APARTMENT IN HARLEM/ENTIRE APARTMENT (id: 18658919) in Harlem constructed?", "answer": "2022"}
-{"oid": 31968245, "qid": "easy-airbnb-0056", "question": "When was of Sun Soaked & Sustainable Studio, Williamsburg (id: 31968245) in Williamsburg constructed?", "answer": "2020"}
-{"oid": 6376872, "qid": "easy-airbnb-0057", "question": "When was of Bushwick Artist Haven w Private Yard by JMZ subway (id: 6376872) in Bushwick constructed?", "answer": "2021"}
-{"oid": 45817167, "qid": "easy-airbnb-0058", "question": "When was of Charming Newly Renovated Brownstone (id: 45817167) in Crown Heights constructed?", "answer": "2016"}
-{"oid": 48044593, "qid": "easy-airbnb-0059", "question": "When was of Cozy Doorman! On Broadway!Gym 5111 (id: 48044593) in Upper West Side constructed?", "answer": "2008"}
-{"oid": 8361838, "qid": "easy-airbnb-0060", "question": "How many reviews does Open Room in Luxury Apartment (id: 8361838) in Financial District have?", "answer": "0"}
-{"oid": 6697206, "qid": "easy-airbnb-0061", "question": "How many reviews does Bright Comfy Studio! (id: 6697206) in Upper West Side have?", "answer": "8"}
-{"oid": 7161138, "qid": "easy-airbnb-0062", "question": "How many reviews does Brooklyn's Coolest One Bedroom (id: 7161138) in Williamsburg have?", "answer": "23"}
-{"oid": 43489775, "qid": "easy-airbnb-0063", "question": "How many reviews does Luxury NYC 1 Bed w/Gorgeous Views + Pool (id: 43489775) in Hell's Kitchen have?", "answer": "4"}
-{"oid": 36181741, "qid": "easy-airbnb-0064", "question": "How many reviews does Chic Upper West Side 1BR w/ Doorman near Central Park by Blueground (id: 36181741) in Upper West Side have?", "answer": "1"}
-{"oid": 19798867, "qid": "easy-airbnb-0065", "question": "How many reviews does Brooklyn [Williamsburg] Apartment (id: 19798867) in Williamsburg have?", "answer": "6"}
-{"oid": 50386897, "qid": "easy-airbnb-0066", "question": "How many reviews does Spacious and Homey 2 bedroom, Express Subway Stop (id: 50386897) in Crown Heights have?", "answer": "7"}
-{"oid": 18745630, "qid": "easy-airbnb-0067", "question": "How many reviews does Prime Williamsburg Apt steps from Bedford Ave (id: 18745630) in Williamsburg have?", "answer": "0"}
-{"oid": 7209740, "qid": "easy-airbnb-0068", "question": "How many reviews does West Village 2 Bed/2 Bath Loft Apt! (id: 7209740) in West Village have?", "answer": "2"}
-{"oid": 16598840, "qid": "easy-airbnb-0069", "question": "How many reviews does Comfortable studio duplex with a Queen size Casper mattress. A 15-minute walk to Union Square and a two-block walk to the subway. Beautiful light in the morning. (id: 16598840) in Gramercy have?", "answer": "4"}
-{"oid": 11197346, "qid": "easy-airbnb-0070", "question": "What is the last review date of Designer Studio in the Heart of Harlem (id: 11197346) in Harlem?", "answer": "5/18/2019"}
-{"oid": 24273049, "qid": "easy-airbnb-0071", "question": "What is the last review date of Cozy Greenpoint one bedroom apartment (id: 24273049) in Greenpoint?", "answer": "6/25/2019"}
-{"oid": 36803631, "qid": "easy-airbnb-0072", "question": "What is the last review date of WELCOME HOME 15 MINUTES  TO MANHATTAN  BOOK TODAY (id: 36803631) in Longwood?", "answer": "7/30/2021"}
-{"oid": 53336732, "qid": "easy-airbnb-0073", "question": "What is the last review date of 2 BEDROOM APT-walk to CENTRAL PARK and restaurants (id: 53336732) in East Harlem?", "answer": "6/20/2019"}
-{"oid": 43442830, "qid": "easy-airbnb-0074", "question": "What is the last review date of Cozy Bushwick room w/  balcony, Longterm avail.! (id: 43442830) in Bushwick?", "answer": "6/1/2019"}
-{"oid": 41597043, "qid": "easy-airbnb-0075", "question": "What is the last review date of Private room in a huge Red Hook loft (id: 41597043) in Red Hook?", "answer": "10/21/2018"}
-{"oid": 56896858, "qid": "easy-airbnb-0076", "question": "What is the last review date of Centrally Located, Large, Clean, Private Bedroom (id: 56896858) in West Village?", "answer": NaN}
-{"oid": 36708636, "qid": "easy-airbnb-0077", "question": "What is the last review date of The Evelyn, Superior 1 Queen Bed (id: 36708636) in Midtown?", "answer": "8/4/2021"}
-{"oid": 53537769, "qid": "easy-airbnb-0078", "question": "What is the last review date of Close to Manhattan and 5 minutes to LGA (id: 53537769) in East Elmhurst?", "answer": "4/11/2019"}
-{"oid": 10017081, "qid": "easy-airbnb-0079", "question": "What is the last review date of Studio in Midtown West (id: 10017081) in Hell's Kitchen?", "answer": "5/1/2019"}
-{"oid": 17156111, "qid": "easy-airbnb-0080", "question": "What is the review rate number of 1 Bedroom Apartment in Tribeca (id: 17156111) in Tribeca?", "answer": "4.0"}
-{"oid": 50642612, "qid": "easy-airbnb-0081", "question": "What is the review rate number of Spacious 1 Bedroom Apt in the heart of Harlem (id: 50642612) in Harlem?", "answer": "1.0"}
-{"oid": 44590509, "qid": "easy-airbnb-0082", "question": "What is the review rate number of Homey funky eclectic rich of arts (id: 44590509) in Crown Heights?", "answer": "2.0"}
-{"oid": 46453969, "qid": "easy-airbnb-0083", "question": "What is the review rate number of 1 BEDROOM CENTRAL PARK / BALCONY /COLUMBUS CIRCLE (id: 46453969) in Upper West Side?", "answer": "2.0"}
-{"oid": 13430848, "qid": "easy-airbnb-0084", "question": "What is the review rate number of BRIGHT SHABBY CHIC FLOOR THRU (id: 13430848) in Harlem?", "answer": "4.0"}
-{"oid": 6701624, "qid": "easy-airbnb-0085", "question": "What is the review rate number of Clean Cozy & Comfy Apartment! (id: 6701624) in Gramercy?", "answer": "3.0"}
-{"oid": 29250376, "qid": "easy-airbnb-0086", "question": "What is the review rate number of Carriage House Too (2) (id: 29250376) in Clinton Hill?", "answer": "5.0"}
-{"oid": 30636097, "qid": "easy-airbnb-0087", "question": "What is the review rate number of Noble House #2 (id: 30636097) in Greenpoint?", "answer": "2.0"}
-{"oid": 54050303, "qid": "easy-airbnb-0088", "question": "What is the review rate number of Stunning 1 Bedroom 2 Bathroom in Midtown (id: 54050303) in Hell's Kitchen?", "answer": "4.0"}
-{"oid": 37394040, "qid": "easy-airbnb-0089", "question": "What is the review rate number of Pre-war 1BR steps from Central Park w/ 75” TV (id: 37394040) in Upper East Side?", "answer": "2.0"}
-{"oid": 53867492, "qid": "easy-airbnb-0090", "question": "What is the average number of reviews per month of Brand new space ! ... safe, peaceful and relaxing. (id: 53867492) in Washington Heights?", "answer": "0.79"}
-{"oid": 21119968, "qid": "easy-airbnb-0091", "question": "What is the average number of reviews per month of Cozy 2 Bedroom Home (id: 21119968) in East New York?", "answer": "1.66"}
-{"oid": 11679504, "qid": "easy-airbnb-0092", "question": "What is the average number of reviews per month of Cozy and spacious room with private bathroom (id: 11679504) in Flatbush?", "answer": "2.08"}
-{"oid": 47579557, "qid": "easy-airbnb-0093", "question": "What is the average number of reviews per month of Light filled room in hip Gowanus (id: 47579557) in Gowanus?", "answer": "0.02"}
-{"oid": 19341562, "qid": "easy-airbnb-0094", "question": "What is the average number of reviews per month of Suite Monroe (id: 19341562) in Bedford-Stuyvesant?", "answer": "2.26"}
-{"oid": 14718811, "qid": "easy-airbnb-0095", "question": "What is the average number of reviews per month of Cool Studio in Brooklyn (id: 14718811) in Bedford-Stuyvesant?", "answer": "0.17"}
-{"oid": 25651590, "qid": "easy-airbnb-0096", "question": "What is the average number of reviews per month of Renovated Apartment in Brooklyn - Steps to G Train (id: 25651590) in Bedford-Stuyvesant?", "answer": "1.0"}
-{"oid": 47436511, "qid": "easy-airbnb-0097", "question": "What is the average number of reviews per month of Private room in two fl apartment (id: 47436511) in Bushwick?", "answer": "nan"}
-{"oid": 20088824, "qid": "easy-airbnb-0098", "question": "What is the average number of reviews per month of Modern Staten Island Townhouse- Welcome home! (id: 20088824) in Randall Manor?", "answer": "3.45"}
-{"oid": 43266646, "qid": "easy-airbnb-0099", "question": "What is the average number of reviews per month of A home away from home in the heart of the UES:) (id: 43266646) in Upper East Side?", "answer": "0.05"}
+{"oid": 5426916, "qid": "easy-airbnb-0000", "question": "What is the host's name for Relaxing Brooklyn Getaway in Fort Greene?", "answer": "Afaliah"}
+{"oid": 35270446, "qid": "easy-airbnb-0001", "question": "What is the host's name for Brooklyn Brownstone full floor ProspectPark 900sft in Prospect-Lefferts Gardens?", "answer": "Andre"}
+{"oid": 27529410, "qid": "easy-airbnb-0002", "question": "What is the host's name for Large bedroom with private bathroom is suit in Bedford-Stuyvesant?", "answer": "Alex And Mila"}
+{"oid": 4605646, "qid": "easy-airbnb-0003", "question": "What is the host's name for Greenwich Village w Private Garden in Greenwich Village?", "answer": "John"}
+{"oid": 21700988, "qid": "easy-airbnb-0004", "question": "What is the host's name for La Grand Master Bedroom in Jamaica?", "answer": "Portia"}
+{"oid": 34839100, "qid": "easy-airbnb-0005", "question": "What is the host's name for 1 N.Y.C in the U.W.S MANHATTAN for a male שומר שבת in Upper West Side?", "answer": "Moshe"}
+{"oid": 8650691, "qid": "easy-airbnb-0006", "question": "What is the host's name for Modern Apartment in Harlem in Harlem?", "answer": "Daniel"}
+{"oid": 21927983, "qid": "easy-airbnb-0007", "question": "What is the host's name for Modern Apartment in the heart of Brooklyn in East Flatbush?", "answer": "Wesley"}
+{"oid": 25477063, "qid": "easy-airbnb-0008", "question": "What is the host's name for Two bedrooms/ 1.5 restrooms in welcoming home! in Richmond Hill?", "answer": "Roy"}
+{"oid": 29400602, "qid": "easy-airbnb-0009", "question": "What is the host's name for Cozy room in prime Williamsburg brooklyn area in Williamsburg?", "answer": "Sharlee"}
+{"oid": 33497011, "qid": "easy-airbnb-0010", "question": "What is the host's name for Extra clean modern apartment close central park in East Harlem?", "answer": "Max/Patti"}
+{"oid": 5698095, "qid": "easy-airbnb-0011", "question": "What is the host's name for Dreamy Luxury Penthouse w/ Terrace in Chelsea?", "answer": "Jerome"}
+{"oid": 22180384, "qid": "easy-airbnb-0012", "question": "What is the host's name for Cozy, Clean and Quiet Private Room - Wifi Access in Glendale?", "answer": "Aralis"}
+{"oid": 37000802, "qid": "easy-airbnb-0013", "question": "What is the host's name for New room w/ large closet, 25 min to Manhattan -#97 in Bushwick?", "answer": "Eugene"}
+{"oid": 7840467, "qid": "easy-airbnb-0014", "question": "What is the host's name for Private room in East Williamsburg in Williamsburg?", "answer": "Vince"}
+{"oid": 27373661, "qid": "easy-airbnb-0015", "question": "What is the host's name for #4 Hotel-Like LOFT Private Room KING bed near JFK in Woodhaven?", "answer": "David"}
+{"oid": 1407277, "qid": "easy-airbnb-0016", "question": "What is the host's name for REAL 2BR-HEART OF SOHO-LITTLE ITALY in Little Italy?", "answer": "Andrews"}
+{"oid": 4580792, "qid": "easy-airbnb-0017", "question": "What is the host's name for Charming brownstone in Bedford-Stuyvesant?", "answer": "Caylah"}
+{"oid": 16177435, "qid": "easy-airbnb-0018", "question": "What is the host's name for PRIVATE ROOM with OWN BATHROOM in Astoria Apt in Astoria?", "answer": "Jeannie"}
+{"oid": 34112273, "qid": "easy-airbnb-0019", "question": "What is the host's name for Convenient Small Room, a Cozy Stay in Brooklyn. #4 in Canarsie?", "answer": "Chemaly"}
+{"oid": 2935491, "qid": "easy-airbnb-0020", "question": "What is the host's name for Modern & Artsy, Awesome Location in Williamsburg?", "answer": "Enrique"}
+{"oid": 26550734, "qid": "easy-airbnb-0021", "question": "What is the host's name for Luxury Apt very close to public transport in East Harlem?", "answer": "Darlene"}
+{"oid": 3825246, "qid": "easy-airbnb-0022", "question": "What is the host's name for Modern Harlem Flat in Harlem?", "answer": "Joshua"}
+{"oid": 36587682, "qid": "easy-airbnb-0023", "question": "What is the host's name for One bedroom in share apartment in Astoria queens in Astoria?", "answer": "Loubna"}
+{"oid": 3219373, "qid": "easy-airbnb-0024", "question": "What is the host's name for ENTIRE APT IN GORGEOUS PARK SLOPE in South Slope?", "answer": "Elizabeth"}
+{"oid": 25195390, "qid": "easy-airbnb-0025", "question": "How many days are Sunny Private Room close to Manhattan(Blue) (id: 25195390) available during a year (365 days)?", "answer": "147"}
+{"oid": 28258446, "qid": "easy-airbnb-0026", "question": "How many days are Sunny Bedroom with renovated rooftop + balcony! (id: 28258446) available during a year (365 days)?", "answer": "32"}
+{"oid": 47528193, "qid": "easy-airbnb-0027", "question": "How many days are West Village 2 Br (id: 47528193) available during a year (365 days)?", "answer": "389"}
+{"oid": 9088665, "qid": "easy-airbnb-0028", "question": "How many days are Artsy Bsmnt Apt in Bklyn Brownstone (id: 9088665) available during a year (365 days)?", "answer": "350"}
+{"oid": 31336414, "qid": "easy-airbnb-0029", "question": "How many days are Quiet Zen Garden Get-away in Historic East Village (id: 31336414) available during a year (365 days)?", "answer": "161"}
+{"oid": 52555780, "qid": "easy-airbnb-0030", "question": "How many days are Private 1 Bedroom in the Heart of Queens (id: 52555780) available during a year (365 days)?", "answer": "0"}
+{"oid": 22619463, "qid": "easy-airbnb-0031", "question": "How many days are NEWLY AVAILABLE  - Just TWO BLOCKS away from LGA (id: 22619463) available during a year (365 days)?", "answer": "81"}
+{"oid": 52413286, "qid": "easy-airbnb-0032", "question": "How many days are Cozy Studio by the Park (id: 52413286) available during a year (365 days)?", "answer": "0"}
+{"oid": 6488989, "qid": "easy-airbnb-0033", "question": "How many days are Historic Clinton Hill Townhouse (id: 6488989) available during a year (365 days)?", "answer": "6"}
+{"oid": 42507786, "qid": "easy-airbnb-0034", "question": "How many days are beautiful shared apt in Midtown (id: 42507786) available during a year (365 days)?", "answer": "365"}
+{"oid": 31946705, "qid": "easy-airbnb-0035", "question": "How many days are Large Quiet Bedroom in the Heart of Astoria! (id: 31946705) available during a year (365 days)?", "answer": "86"}
+{"oid": 55663572, "qid": "easy-airbnb-0036", "question": "How many days are Room with a View, Next to Times Square! (id: 55663572) available during a year (365 days)?", "answer": "256"}
+{"oid": 54613097, "qid": "easy-airbnb-0037", "question": "How many days are WBurg Priv Room. Great transport & local amenities (id: 54613097) available during a year (365 days)?", "answer": "0"}
+{"oid": 9358187, "qid": "easy-airbnb-0038", "question": "How many days are Sophisticated 1 bedroom apt. in Midtown West! (id: 9358187) available during a year (365 days)?", "answer": "386"}
+{"oid": 33935537, "qid": "easy-airbnb-0039", "question": "How many days are 14- Pirme West Village Horatio st Studio (id: 33935537) available during a year (365 days)?", "answer": "358"}
+{"oid": 17971858, "qid": "easy-airbnb-0040", "question": "How many days are Better than hotel whole apt next 2 MAIN ST Flushin (id: 17971858) available during a year (365 days)?", "answer": "74"}
+{"oid": 23733452, "qid": "easy-airbnb-0041", "question": "How many days are Cozy room next to subway! (id: 23733452) available during a year (365 days)?", "answer": "0"}
+{"oid": 51037507, "qid": "easy-airbnb-0042", "question": "How many days are Cozy Studio on Roosevelt Island (id: 51037507) available during a year (365 days)?", "answer": "0"}
+{"oid": 28063484, "qid": "easy-airbnb-0043", "question": "How many days are Furnished room  for rent in Bronx SINGLE FEMALE (id: 28063484) available during a year (365 days)?", "answer": "190"}
+{"oid": 48321295, "qid": "easy-airbnb-0044", "question": "How many days are Cozy One Bedroom Apartment in Astoria, NYC (id: 48321295) available during a year (365 days)?", "answer": "10"}
+{"oid": 7958107, "qid": "easy-airbnb-0045", "question": "How many days are Bright room in Williamsburg (id: 7958107) available during a year (365 days)?", "answer": "62"}
+{"oid": 17036262, "qid": "easy-airbnb-0046", "question": "How many days are Cute small one bedroom in Queens Woodside (id: 17036262) available during a year (365 days)?", "answer": "1"}
+{"oid": 10779808, "qid": "easy-airbnb-0047", "question": "How many days are Comfy 1 Bedroom in commercial East Flatbush (id: 10779808) available during a year (365 days)?", "answer": "33"}
+{"oid": 40060544, "qid": "easy-airbnb-0048", "question": "How many days are Large, Quiet, Sunny 1 Bedroom Condo Williamsburg (id: 40060544) available during a year (365 days)?", "answer": "12"}
+{"oid": 7027481, "qid": "easy-airbnb-0049", "question": "How many days are Apt on President St & Kingston Ave (id: 7027481) available during a year (365 days)?", "answer": "10"}
+{"oid": 2910085, "qid": "easy-airbnb-0050", "question": "What is the room type of Brooklyn garden 2 bedroom (id: 2910085) in Boerum Hill?", "answer": "Entire home/apt"}
+{"oid": 54692628, "qid": "easy-airbnb-0051", "question": "What is the room type of **Newly Listed 2-bedroom gem with private entrance (id: 54692628) in Bushwick?", "answer": "Entire home/apt"}
+{"oid": 13639065, "qid": "easy-airbnb-0052", "question": "What is the room type of Great room across the street from the High bridge (id: 13639065) in Highbridge?", "answer": "Private room"}
+{"oid": 12801226, "qid": "easy-airbnb-0053", "question": "What is the room type of Cozy Bed-Stuy Getaway! (id: 12801226) in Bedford-Stuyvesant?", "answer": "Private room"}
+{"oid": 23246323, "qid": "easy-airbnb-0054", "question": "What is the room type of Cozy studio close to Central Park (id: 23246323) in Upper West Side?", "answer": "Entire home/apt"}
+{"oid": 45856933, "qid": "easy-airbnb-0055", "question": "What is the room type of Joy's Place! Cozy, Comfortable and Quaint home (id: 45856933) in Bedford-Stuyvesant?", "answer": "Entire home/apt"}
+{"oid": 10437934, "qid": "easy-airbnb-0056", "question": "What is the room type of Madison Ave 2 BR Penthouse, 3 Beds (id: 10437934) in Upper East Side?", "answer": "Entire home/apt"}
+{"oid": 54113266, "qid": "easy-airbnb-0057", "question": "What is the room type of Comfy Room with Private Insuite Bathroom (id: 54113266) in Bedford-Stuyvesant?", "answer": "Private room"}
+{"oid": 17125182, "qid": "easy-airbnb-0058", "question": "What is the room type of Luxury Large Studio Apt at City Hall Park/Tribeca (id: 17125182) in Civic Center?", "answer": "Entire home/apt"}
+{"oid": 37581822, "qid": "easy-airbnb-0059", "question": "What is the room type of 20-25 minutes to downtown NYC/30-40 to midtown (id: 37581822) in Bushwick?", "answer": "Private room"}
+{"oid": 55370300, "qid": "easy-airbnb-0060", "question": "What is the room type of Queens Beauty Close to Manhattan (id: 55370300) in Ozone Park?", "answer": "Entire home/apt"}
+{"oid": 21247549, "qid": "easy-airbnb-0061", "question": "What is the room type of RENOVATED LUXURY 3BR 3BATH ON LITTLE WEST STREET (id: 21247549) in Battery Park City?", "answer": "Entire home/apt"}
+{"oid": 42638681, "qid": "easy-airbnb-0062", "question": "What is the room type of Astoria Spacious Room \nAll included,Great location (id: 42638681) in Astoria?", "answer": "Private room"}
+{"oid": 6952921, "qid": "easy-airbnb-0063", "question": "What is the room type of Overlooking NYC skyline in Greenpoint (id: 6952921) in Greenpoint?", "answer": "Entire home/apt"}
+{"oid": 36140871, "qid": "easy-airbnb-0064", "question": "What is the room type of 2 bedroom apt near Times Square & Central Park (id: 36140871) in Theater District?", "answer": "Entire home/apt"}
+{"oid": 38870338, "qid": "easy-airbnb-0065", "question": "What is the room type of Marvelous Manhattan Marble Hill Private Suites (id: 38870338) in Marble Hill?", "answer": "Private room"}
+{"oid": 31090640, "qid": "easy-airbnb-0066", "question": "What is the room type of High Floor River View w/ King Bed Hotel Room (id: 31090640) in Financial District?", "answer": "Private room"}
+{"oid": 29445891, "qid": "easy-airbnb-0067", "question": "What is the room type of Designer Upper East side apartment Two entrances. (id: 29445891) in Upper East Side?", "answer": "Entire home/apt"}
+{"oid": 13713073, "qid": "easy-airbnb-0068", "question": "What is the room type of Cute, spacious room in Crown Heights (id: 13713073) in Crown Heights?", "answer": "Private room"}
+{"oid": 39213868, "qid": "easy-airbnb-0069", "question": "What is the room type of Cozy 2BR in Trendy LIC, 1 Stop From Manhattan (id: 39213868) in Long Island City?", "answer": "Entire home/apt"}
+{"oid": 37743094, "qid": "easy-airbnb-0070", "question": "What is the room type of Large 1BR Apartment in Best LES Location (id: 37743094) in Lower East Side?", "answer": "Entire home/apt"}
+{"oid": 42644204, "qid": "easy-airbnb-0071", "question": "What is the room type of Beautiful Cozy room in Hell’s Kitchen,Times Square (id: 42644204) in Hell's Kitchen?", "answer": "Private room"}
+{"oid": 51152938, "qid": "easy-airbnb-0072", "question": "What is the room type of Peaceful Bedroom with private balcony in LES (id: 51152938) in Lower East Side?", "answer": "Private room"}
+{"oid": 36751163, "qid": "easy-airbnb-0073", "question": "What is the room type of Panoramic Water Views  |  Luxury building Studio (id: 36751163) in Financial District?", "answer": "Entire home/apt"}
+{"oid": 7707363, "qid": "easy-airbnb-0074", "question": "What is the room type of Private Light-Filled 2-Room Space (id: 7707363) in Bedford-Stuyvesant?", "answer": "Entire home/apt"}
+{"oid": 6150429, "qid": "easy-airbnb-0075", "question": "What is the price of Sunny 2BR in Heart of Fort Greene (id: 6150429) in Fort Greene?", "answer": "$542 "}
+{"oid": 20024205, "qid": "easy-airbnb-0076", "question": "What is the price of Cozy and clean 1 bedroom in luxury apartment (id: 20024205) in East Village?", "answer": "$1,081 "}
+{"oid": 24495626, "qid": "easy-airbnb-0077", "question": "What is the price of Amazing location at great price (id: 24495626) in Upper West Side?", "answer": "$1,189 "}
+{"oid": 20165041, "qid": "easy-airbnb-0078", "question": "What is the price of Brooklyn modern Apartment steps to the L train ;-) (id: 20165041) in Bushwick?", "answer": "$455 "}
+{"oid": 41455654, "qid": "easy-airbnb-0079", "question": "What is the price of Cozy E. Williamsburg 3-bedroom apt! (Bedroom 1) (id: 41455654) in Williamsburg?", "answer": "$916 "}
+{"oid": 13510931, "qid": "easy-airbnb-0080", "question": "What is the price of Gigantic 2 Bed/2 Bath Step to Columbus Circle&Park (id: 13510931) in Hell's Kitchen?", "answer": "$82 "}
+{"oid": 12433394, "qid": "easy-airbnb-0081", "question": "What is the price of Private Bedroom in Midtown -Heart of NYC (id: 12433394) in Theater District?", "answer": "$1,143 "}
+{"oid": 13988671, "qid": "easy-airbnb-0082", "question": "What is the price of Private Heart-of-Williamsburg Bedroom! (id: 13988671) in Williamsburg?", "answer": "$467 "}
+{"oid": 34025562, "qid": "easy-airbnb-0083", "question": "What is the price of Chic Chelsea Flat Right Next to the Highline! (id: 34025562) in Chelsea?", "answer": "$993 "}
+{"oid": 54889247, "qid": "easy-airbnb-0084", "question": "What is the price of Private Room in Bed-stuy (id: 54889247) in Crown Heights?", "answer": "$881 "}
+{"oid": 25316344, "qid": "easy-airbnb-0085", "question": "What is the price of Astoria Prime- 5 Min to LaGuardia/20 Min to NYC! (id: 25316344) in Ditmars Steinway?", "answer": "$200 "}
+{"oid": 5814631, "qid": "easy-airbnb-0086", "question": "What is the price of Well Furnished Upper East Side Studio (id: 5814631) in Upper East Side?", "answer": "$890 "}
+{"oid": 26112208, "qid": "easy-airbnb-0087", "question": "What is the price of Great room for 2 or 3 people close to the trains (id: 26112208) in Bedford-Stuyvesant?", "answer": "$554 "}
+{"oid": 44697103, "qid": "easy-airbnb-0088", "question": "What is the price of Spacious two bedrooms condo in upper Manhattan (id: 44697103) in Inwood?", "answer": "$665 "}
+{"oid": 56703000, "qid": "easy-airbnb-0089", "question": "What is the price of Williamsburg Loft - Short or Long term Roommate (id: 56703000) in Williamsburg?", "answer": "$190 "}
+{"oid": 7932701, "qid": "easy-airbnb-0090", "question": "What is the price of Large 1 Bed Apartment East Village (id: 7932701) in East Village?", "answer": "$1,003 "}
+{"oid": 5058532, "qid": "easy-airbnb-0091", "question": "What is the price of *PIZZAZZ* Fantastic Studio Apartment-Upper East! (id: 5058532) in Upper East Side?", "answer": "$826 "}
+{"oid": 50132839, "qid": "easy-airbnb-0092", "question": "What is the price of 1Bdrm Deluxe WYNDHAM MIDTOWN 45*Great Location NYC (id: 50132839) in Midtown?", "answer": "$477 "}
+{"oid": 9872931, "qid": "easy-airbnb-0093", "question": "What is the price of Beautiful room in a spacious Brooklyn duplex (id: 9872931) in Windsor Terrace?", "answer": "$147 "}
+{"oid": 32971222, "qid": "easy-airbnb-0094", "question": "What is the price of Private Studio near Prospect Park (id: 32971222) in Prospect-Lefferts Gardens?", "answer": "$1,055 "}
+{"oid": 40884576, "qid": "easy-airbnb-0095", "question": "What is the price of Williamsburg Bedford Ave L Train (id: 40884576) in Williamsburg?", "answer": "$153 "}
+{"oid": 46121485, "qid": "easy-airbnb-0096", "question": "What is the price of One room in a beautiful two bedroom appartment (id: 46121485) in Williamsburg?", "answer": "$560 "}
+{"oid": 50785658, "qid": "easy-airbnb-0097", "question": "What is the price of Charming light-filled apartment in Crown Heights (id: 50785658) in Crown Heights?", "answer": "$920 "}
+{"oid": 18397129, "qid": "easy-airbnb-0098", "question": "What is the price of Private Modern Studio in heart of Flatbush (id: 18397129) in Midwood?", "answer": "$50 "}
+{"oid": 33800224, "qid": "easy-airbnb-0099", "question": "What is the price of Great private room in NYC 20 min to Manhattan (id: 33800224) in Sunnyside?", "answer": "$831 "}
+{"oid": 8704264, "qid": "easy-airbnb-0100", "question": "What is the minimum number of nights of Luxurious Private Suit in 3BR Apt (id: 8704264) in Williamsburg?", "answer": "3"}
+{"oid": 33800224, "qid": "easy-airbnb-0101", "question": "What is the minimum number of nights of Great private room in NYC 20 min to Manhattan (id: 33800224) in Sunnyside?", "answer": "1"}
+{"oid": 31249702, "qid": "easy-airbnb-0102", "question": "What is the minimum number of nights of UNTITLED at Freeman - Queen Studio 917 (id: 31249702) in Lower East Side?", "answer": "2"}
+{"oid": 3335908, "qid": "easy-airbnb-0103", "question": "What is the minimum number of nights of It's very warm and friendly. (id: 3335908) in Fordham?", "answer": "7"}
+{"oid": 12261628, "qid": "easy-airbnb-0104", "question": "What is the minimum number of nights of Whole 2 bedrooms apartment in HK (id: 12261628) in Hell's Kitchen?", "answer": "3"}
+{"oid": 8564532, "qid": "easy-airbnb-0105", "question": "What is the minimum number of nights of Cozy Bedroom in Apartment Uptown (id: 8564532) in Harlem?", "answer": "1"}
+{"oid": 35182078, "qid": "easy-airbnb-0106", "question": "What is the minimum number of nights of Spacious Jewel along West side Central Park (id: 35182078) in Upper West Side?", "answer": "4"}
+{"oid": 7823898, "qid": "easy-airbnb-0107", "question": "What is the minimum number of nights of Room in Seaport (Financial District (id: 7823898) in Two Bridges?", "answer": "20"}
+{"oid": 20841609, "qid": "easy-airbnb-0108", "question": "What is the minimum number of nights of La Casa Azul - Paradise in Brooklyn!! (id: 20841609) in Cypress Hills?", "answer": "1"}
+{"oid": 4251069, "qid": "easy-airbnb-0109", "question": "What is the minimum number of nights of LG GARDEN Apt ON Sunset Park,  on41ST near 6th Ave (id: 4251069) in Sunset Park?", "answer": "2"}
+{"oid": 25216930, "qid": "easy-airbnb-0110", "question": "What is the minimum number of nights of Cozy Room near Prospect Park! (id: 25216930) in Windsor Terrace?", "answer": "7"}
+{"oid": 31513150, "qid": "easy-airbnb-0111", "question": "What is the minimum number of nights of The Peach Room (id: 31513150) in Crown Heights?", "answer": "30"}
+{"oid": 11371321, "qid": "easy-airbnb-0112", "question": "What is the minimum number of nights of Private Bedroom with Amazing Skyline View (id: 11371321) in Bushwick?", "answer": "1"}
+{"oid": 22715011, "qid": "easy-airbnb-0113", "question": "What is the minimum number of nights of Comfortable one bedroom in heart of Midtown (id: 22715011) in Hell's Kitchen?", "answer": "10"}
+{"oid": 43581457, "qid": "easy-airbnb-0114", "question": "What is the minimum number of nights of Luxury 1BR in Times Square \"Urban Oasis\" (id: 43581457) in Theater District?", "answer": "4"}
+{"oid": 49329243, "qid": "easy-airbnb-0115", "question": "What is the minimum number of nights of Cozy, quiet 1 bdrm centrally located (id: 49329243) in Crown Heights?", "answer": "2"}
+{"oid": 27225645, "qid": "easy-airbnb-0116", "question": "What is the minimum number of nights of Charming & Stylish Home in Chelsea (id: 27225645) in Chelsea?", "answer": "5"}
+{"oid": 52513805, "qid": "easy-airbnb-0117", "question": "What is the minimum number of nights of Spacious 1BR Apartment (id: 52513805) in Williamsburg?", "answer": "6"}
+{"oid": 41122065, "qid": "easy-airbnb-0118", "question": "What is the minimum number of nights of Caribbean Retreat in the heart of Brooklyn (id: 41122065) in East Flatbush?", "answer": "2"}
+{"oid": 9136163, "qid": "easy-airbnb-0119", "question": "What is the minimum number of nights of 3 Bedroom, family ready, in Harlem (id: 9136163) in Harlem?", "answer": "1"}
+{"oid": 32967908, "qid": "easy-airbnb-0120", "question": "What is the minimum number of nights of Clinton Hill Oversized One Bedroom (id: 32967908) in Clinton Hill?", "answer": "30"}
+{"oid": 6119500, "qid": "easy-airbnb-0121", "question": "What is the minimum number of nights of Renovated W. Village 2 bed 2 bath (id: 6119500) in West Village?", "answer": "1"}
+{"oid": 17744863, "qid": "easy-airbnb-0122", "question": "What is the minimum number of nights of Bright Bushwick Apartment with City Views! (id: 17744863) in Bushwick?", "answer": "2"}
+{"oid": 10626820, "qid": "easy-airbnb-0123", "question": "What is the minimum number of nights of Beautiful place (id: 10626820) in Canarsie?", "answer": "1"}
+{"oid": 55547589, "qid": "easy-airbnb-0124", "question": "What is the minimum number of nights of Two-Story 2BR/2BA East Village Apartment! (id: 55547589) in East Village?", "answer": "3"}
+{"oid": 33843303, "qid": "easy-airbnb-0125", "question": "When was of Edwige and Yves' house (id: 33843303) in Edenwald constructed?", "answer": "2013"}
+{"oid": 34792707, "qid": "easy-airbnb-0126", "question": "When was of Family Gather  5 bedrooms 3 full baths (id: 34792707) in Flatbush constructed?", "answer": "2008"}
+{"oid": 23839493, "qid": "easy-airbnb-0127", "question": "When was of Spacious Rm for 1 near Hospital1 min Walk to Train (id: 23839493) in Grant City constructed?", "answer": "2005"}
+{"oid": 37066526, "qid": "easy-airbnb-0128", "question": "When was of Una habitacion comoda ambiente limpio y familiar. (id: 37066526) in East Morrisania constructed?", "answer": "2010"}
+{"oid": 26159153, "qid": "easy-airbnb-0129", "question": "When was of Comfortable double room with balcony(舒适双人房带阳台) (id: 26159153) in Flushing constructed?", "answer": "2009"}
+{"oid": 42687283, "qid": "easy-airbnb-0130", "question": "When was of Room with a View | Enjoy the Manhattan Skyline + Outdoor Terrace (id: 42687283) in Hell's Kitchen constructed?", "answer": "2004"}
+{"oid": 21015583, "qid": "easy-airbnb-0131", "question": "When was of Located in the perfect neighborhood of NYC a gem (id: 21015583) in SoHo constructed?", "answer": "2019"}
+{"oid": 14841422, "qid": "easy-airbnb-0132", "question": "When was of **Irresistible Jewel** (id: 14841422) in Murray Hill constructed?", "answer": "2018"}
+{"oid": 19132240, "qid": "easy-airbnb-0133", "question": "When was of Stylish and Serene in Cobble Hill, Brooklyn (id: 19132240) in Cobble Hill constructed?", "answer": "2008"}
+{"oid": 43708486, "qid": "easy-airbnb-0134", "question": "When was of Your cozy and comfy space near 7 train (id: 43708486) in Elmhurst constructed?", "answer": "2004"}
+{"oid": 12515686, "qid": "easy-airbnb-0135", "question": "When was of You Deserve The Royal Treatment. (id: 12515686) in Norwood constructed?", "answer": "2004"}
+{"oid": 35661475, "qid": "easy-airbnb-0136", "question": "When was of Large room with Sofa, easy access to Manhattan (id: 35661475) in Woodside constructed?", "answer": "2018"}
+{"oid": 32631557, "qid": "easy-airbnb-0137", "question": "When was of Large sunny bedroom in apt share close to City! (id: 32631557) in Bedford-Stuyvesant constructed?", "answer": "2010"}
+{"oid": 7020301, "qid": "easy-airbnb-0138", "question": "When was of Historic Ridgewood Brick Townhouse (id: 7020301) in Ridgewood constructed?", "answer": "2009"}
+{"oid": 27607284, "qid": "easy-airbnb-0139", "question": "When was of Sunlit Design Loft 2bdroom (id: 27607284) in Williamsburg constructed?", "answer": "2009"}
+{"oid": 7331246, "qid": "easy-airbnb-0140", "question": "When was of Central Park, Museum Mile (id: 7331246) in East Harlem constructed?", "answer": "2021"}
+{"oid": 47983288, "qid": "easy-airbnb-0141", "question": "When was of Chic Spacious Beachfront House (id: 47983288) in Arverne constructed?", "answer": "2018"}
+{"oid": 29322728, "qid": "easy-airbnb-0142", "question": "When was of New York Happy Life Room (id: 29322728) in Crown Heights constructed?", "answer": "2019"}
+{"oid": 3072461, "qid": "easy-airbnb-0143", "question": "When was of New Studio in Heart of Chelsea (id: 3072461) in Chelsea constructed?", "answer": "2018"}
+{"oid": 49010566, "qid": "easy-airbnb-0144", "question": "When was of East 74th street, Cozy UES Studio Svcd Apartment (id: 49010566) in Upper East Side constructed?", "answer": "2005"}
+{"oid": 26865545, "qid": "easy-airbnb-0145", "question": "When was of Sunny Private BR Apt in Fort Greene Cumberland (id: 26865545) in Fort Greene constructed?", "answer": "2021"}
+{"oid": 18674936, "qid": "easy-airbnb-0146", "question": "When was of Colorful, quiet, private room near LaGuardia/NYC (id: 18674936) in Ditmars Steinway constructed?", "answer": "2020"}
+{"oid": 11775052, "qid": "easy-airbnb-0147", "question": "When was of Spacious, comfortable, UES private room (id: 11775052) in Upper East Side constructed?", "answer": "2013"}
+{"oid": 57155886, "qid": "easy-airbnb-0148", "question": "When was of BK diggs (id: 57155886) in DUMBO constructed?", "answer": "2018"}
+{"oid": 24497283, "qid": "easy-airbnb-0149", "question": "When was of Modern 2BDR. Great Location, Quiet, 24/7 Doorman (id: 24497283) in Financial District constructed?", "answer": "2017"}
+{"oid": 45690138, "qid": "easy-airbnb-0150", "question": "How many reviews does Central Park at your Door! (id: 45690138) in Harlem have?", "answer": "39"}
+{"oid": 14269791, "qid": "easy-airbnb-0151", "question": "How many reviews does Private room in charming, eclectic Flushing home (id: 14269791) in Flushing have?", "answer": "0"}
+{"oid": 41583788, "qid": "easy-airbnb-0152", "question": "How many reviews does 478 BROOKLYN  2 bedrooms/2 bathrooms (974sf) (id: 41583788) in Clinton Hill have?", "answer": "6"}
+{"oid": 42462497, "qid": "easy-airbnb-0153", "question": "How many reviews does Vibrant Apartment By The Beach (id: 42462497) in Rockaway Beach have?", "answer": "2"}
+{"oid": 36488820, "qid": "easy-airbnb-0154", "question": "How many reviews does Sunny two bedroom apartment in the heart of NYC (id: 36488820) in East Village have?", "answer": "4"}
+{"oid": 46434086, "qid": "easy-airbnb-0155", "question": "How many reviews does Dream bedroom in the heart of downtown Manhattan (id: 46434086) in Chinatown have?", "answer": "1"}
+{"oid": 38647761, "qid": "easy-airbnb-0156", "question": "How many reviews does 3BR - Sunny and Vibrant Brooklyn loft (id: 38647761) in Williamsburg have?", "answer": "33"}
+{"oid": 39409383, "qid": "easy-airbnb-0157", "question": "How many reviews does lovely, spacious wmsbrg apt w deck (id: 39409383) in Williamsburg have?", "answer": "27"}
+{"oid": 44376217, "qid": "easy-airbnb-0158", "question": "How many reviews does Large private BR in East Harlem near Central Park (id: 44376217) in East Harlem have?", "answer": "0"}
+{"oid": 21266328, "qid": "easy-airbnb-0159", "question": "How many reviews does Private Room in a Recently Remodeled Apt  Bushwick (id: 21266328) in Bushwick have?", "answer": "4"}
+{"oid": 4523905, "qid": "easy-airbnb-0160", "question": "How many reviews does 2 Bedroom New York Charmer (id: 4523905) in Hell's Kitchen have?", "answer": "9"}
+{"oid": 16781099, "qid": "easy-airbnb-0161", "question": "How many reviews does Harlem Oasis (id: 16781099) in Harlem have?", "answer": "0"}
+{"oid": 22988399, "qid": "easy-airbnb-0162", "question": "How many reviews does One bedroom in 2 bedroom apartment (id: 22988399) in East Village have?", "answer": "15"}
+{"oid": 46017652, "qid": "easy-airbnb-0163", "question": "How many reviews does Cozy East Williamsburg apt (walk up) (id: 46017652) in Williamsburg have?", "answer": "0"}
+{"oid": 28118714, "qid": "easy-airbnb-0164", "question": "How many reviews does ❥❥❥*NYC Room: 4min/subway, 25m/city, 20m/LGA,JFK❥❥ (id: 28118714) in Woodhaven have?", "answer": "0"}
+{"oid": 43541139, "qid": "easy-airbnb-0165", "question": "How many reviews does Big Room, Refinished Place - 35 min to Times Sq. (id: 43541139) in Inwood have?", "answer": "30"}
+{"oid": 45157169, "qid": "easy-airbnb-0166", "question": "How many reviews does Spacious house close to yankee stadium. (id: 45157169) in Mount Hope have?", "answer": "6"}
+{"oid": 54774921, "qid": "easy-airbnb-0167", "question": "How many reviews does Camp Rockaway (id: 54774921) in Breezy Point have?", "answer": "1"}
+{"oid": 18386635, "qid": "easy-airbnb-0168", "question": "How many reviews does Prime Upper east~2BR~ newly furnished (id: 18386635) in Upper East Side have?", "answer": "0"}
+{"oid": 33485413, "qid": "easy-airbnb-0169", "question": "How many reviews does 1630 Madison Avenue 4C (id: 33485413) in East Harlem have?", "answer": "9"}
+{"oid": 27081494, "qid": "easy-airbnb-0170", "question": "How many reviews does Harlem 1 bedroom Private Room - Modern (id: 27081494) in Harlem have?", "answer": "0"}
+{"oid": 19271420, "qid": "easy-airbnb-0171", "question": "How many reviews does Small Room in great location Upper East Side (id: 19271420) in Upper East Side have?", "answer": "44"}
+{"oid": 37032283, "qid": "easy-airbnb-0172", "question": "How many reviews does Cómodo apartamento en barrio italiano (id: 37032283) in Belmont have?", "answer": "3"}
+{"oid": 8143127, "qid": "easy-airbnb-0173", "question": "How many reviews does Newly Renovated Tribeca 2 br (id: 8143127) in Tribeca have?", "answer": "0"}
+{"oid": 2379325, "qid": "easy-airbnb-0174", "question": "How many reviews does nice room in bedstuy H (id: 2379325) in Bedford-Stuyvesant have?", "answer": "127"}
+{"oid": 56335168, "qid": "easy-airbnb-0175", "question": "What is the last review date of spacious 1 bdrm apt on the Hudson River (id: 56335168) in Morningside Heights?", "answer": "6/29/2018"}
+{"oid": 26265747, "qid": "easy-airbnb-0176", "question": "What is the last review date of NEAR 5th AVE RENOVATED STUDIO IN BROOKLYN (id: 26265747) in Bay Ridge?", "answer": "6/27/2019"}
+{"oid": 5375552, "qid": "easy-airbnb-0177", "question": "What is the last review date of Live in Harlem close to Columbia U! (id: 5375552) in Morningside Heights?", "answer": "1/7/2019"}
+{"oid": 45235043, "qid": "easy-airbnb-0178", "question": "What is the last review date of SUPER CLEAN. (id: 45235043) in Clinton Hill?", "answer": "6/9/2019"}
+{"oid": 49129863, "qid": "easy-airbnb-0179", "question": "What is the last review date of The Lefferts Manor $149per night (id: 49129863) in Bedford-Stuyvesant?", "answer": "6/22/2017"}
+{"oid": 50727114, "qid": "easy-airbnb-0180", "question": "What is the last review date of Sunny cozy room next to park (id: 50727114) in Upper East Side?", "answer": "5/12/2019"}
+{"oid": 33899638, "qid": "easy-airbnb-0181", "question": "What is the last review date of Super Clean New Room in the Heart of Bed Stuy #1 (id: 33899638) in Bedford-Stuyvesant?", "answer": "1/1/2022"}
+{"oid": 54854452, "qid": "easy-airbnb-0182", "question": "What is the last review date of HARLEM ROCKS/BEST APARtMENT (id: 54854452) in East Harlem?", "answer": NaN}
+{"oid": 52249253, "qid": "easy-airbnb-0183", "question": "What is the last review date of Private large bedroom in Prime Williamsburg, BK (id: 52249253) in Greenpoint?", "answer": NaN}
+{"oid": 2105384, "qid": "easy-airbnb-0184", "question": "What is the last review date of Gorgeous Williamsburg Apartment (id: 2105384) in Williamsburg?", "answer": "5/4/2019"}
+{"oid": 34196775, "qid": "easy-airbnb-0185", "question": "What is the last review date of POSH LOFT APARTMENT WITH 16 FOOT CEILINGS! (id: 34196775) in Bedford-Stuyvesant?", "answer": "12/28/2021"}
+{"oid": 16448615, "qid": "easy-airbnb-0186", "question": "What is the last review date of 1 Bedroom modern apartment in the heart of Astoria (id: 16448615) in Astoria?", "answer": "12/9/2017"}
+{"oid": 51466092, "qid": "easy-airbnb-0187", "question": "What is the last review date of Modern Rooftop Loft W/ Private Ensuite & Cityviews (id: 51466092) in Crown Heights?", "answer": "6/30/2019"}
+{"oid": 56599720, "qid": "easy-airbnb-0188", "question": "What is the last review date of Private Studio & Kitchen in Renovated Brownstone (id: 56599720) in Bedford-Stuyvesant?", "answer": "6/30/2019"}
+{"oid": 27341628, "qid": "easy-airbnb-0189", "question": "What is the last review date of Sonder | 116 John | Vibrant Studio + Fitness Room (id: 27341628) in Financial District?", "answer": NaN}
+{"oid": 11088543, "qid": "easy-airbnb-0190", "question": "What is the last review date of Greenpoint amazing private room (id: 11088543) in Greenpoint?", "answer": "5/5/2019"}
+{"oid": 54636294, "qid": "easy-airbnb-0191", "question": "What is the last review date of La Cantina + Room in Bed-Stuy (id: 54636294) in Bedford-Stuyvesant?", "answer": "7/1/2019"}
+{"oid": 14352084, "qid": "easy-airbnb-0192", "question": "What is the last review date of Modern one bedroom condo in Central Fort Greene BK (id: 14352084) in Fort Greene?", "answer": "7/1/2019"}
+{"oid": 49798698, "qid": "easy-airbnb-0193", "question": "What is the last review date of Bedroom in the <3 of Astoria close to the city (id: 49798698) in Astoria?", "answer": "4/23/2019"}
+{"oid": 10033650, "qid": "easy-airbnb-0194", "question": "What is the last review date of Best Value 1,000SF 2BR Classic Brownstone (id: 10033650) in Crown Heights?", "answer": "7/6/2019"}
+{"oid": 27839250, "qid": "easy-airbnb-0195", "question": "What is the last review date of Charming and Spacious Harlem Nest (id: 27839250) in Harlem?", "answer": NaN}
+{"oid": 21086830, "qid": "easy-airbnb-0196", "question": "What is the last review date of Super charming and cozy one bedroom apartment. (id: 21086830) in Long Island City?", "answer": "6/30/2019"}
+{"oid": 35732169, "qid": "easy-airbnb-0197", "question": "What is the last review date of Luxurious 2-bedroom residential home with a deck. (id: 35732169) in Flushing?", "answer": "10/31/2021"}
+{"oid": 16776681, "qid": "easy-airbnb-0198", "question": "What is the last review date of Soho/East Village One Bed (id: 16776681) in East Village?", "answer": "6/15/2019"}
+{"oid": 41312608, "qid": "easy-airbnb-0199", "question": "What is the last review date of ★ Hidden Gem. Spacious. Restaurants, Cafés Galore. (id: 41312608) in Harlem?", "answer": "5/27/2019"}
+{"oid": 37497320, "qid": "easy-airbnb-0200", "question": "What is the review rate number of Harlem Condo TWO Full Bedrooms w/ Balcony (id: 37497320) in East Harlem?", "answer": "2.0"}
+{"oid": 16622589, "qid": "easy-airbnb-0201", "question": "What is the review rate number of Chelsea urban style loft (id: 16622589) in Chelsea?", "answer": "5.0"}
+{"oid": 31877668, "qid": "easy-airbnb-0202", "question": "What is the review rate number of SUNNY,  2BD 1 Bath APT w Patio for monthly sublet. (id: 31877668) in Williamsburg?", "answer": "3.0"}
+{"oid": 34873343, "qid": "easy-airbnb-0203", "question": "What is the review rate number of Private Room close to subway (2/2) (id: 34873343) in Jackson Heights?", "answer": "3.0"}
+{"oid": 12884071, "qid": "easy-airbnb-0204", "question": "What is the review rate number of Beautiful 2 Bedroom Apartment in Ridgewood (id: 12884071) in Ridgewood?", "answer": "5.0"}
+{"oid": 44139280, "qid": "easy-airbnb-0205", "question": "What is the review rate number of 2BR \"Café Brooklyn\" w/private Courtyard in BedStuy (id: 44139280) in Bedford-Stuyvesant?", "answer": "2.0"}
+{"oid": 24605533, "qid": "easy-airbnb-0206", "question": "What is the review rate number of #2 Cozy 1 bedroom apartment,2 block to CENTRALPARK (id: 24605533) in East Harlem?", "answer": "5.0"}
+{"oid": 27108557, "qid": "easy-airbnb-0207", "question": "What is the review rate number of Cozy private room in newly renovated house (id: 27108557) in Bushwick?", "answer": "5.0"}
+{"oid": 4024074, "qid": "easy-airbnb-0208", "question": "What is the review rate number of Luxurious 1BR Best Views in NYC! (id: 4024074) in Battery Park City?", "answer": "3.0"}
+{"oid": 36079014, "qid": "easy-airbnb-0209", "question": "What is the review rate number of A sweet cozy one bedroom in Crown Heights Brooklyn (id: 36079014) in East Flatbush?", "answer": "3.0"}
+{"oid": 1432682, "qid": "easy-airbnb-0210", "question": "What is the review rate number of #1 Yellow Block BnB/see at Net Flix Show Stay Here (id: 1432682) in Bedford-Stuyvesant?", "answer": "5.0"}
+{"oid": 53744881, "qid": "easy-airbnb-0211", "question": "What is the review rate number of Spacious, light filled Brooklyn getaway (id: 53744881) in Bushwick?", "answer": "5.0"}
+{"oid": 53205837, "qid": "easy-airbnb-0212", "question": "What is the review rate number of Heart of long island City (id: 53205837) in Long Island City?", "answer": "5.0"}
+{"oid": 8492733, "qid": "easy-airbnb-0213", "question": "What is the review rate number of Studio Apartment (id: 8492733) in East Village?", "answer": "2.0"}
+{"oid": 27437728, "qid": "easy-airbnb-0214", "question": "What is the review rate number of East Harlem Studio Sleeps 3 (id: 27437728) in Harlem?", "answer": "2.0"}
+{"oid": 7860350, "qid": "easy-airbnb-0215", "question": "What is the review rate number of Convenient Place in Midtown (id: 7860350) in Hell's Kitchen?", "answer": "5.0"}
+{"oid": 15101555, "qid": "easy-airbnb-0216", "question": "What is the review rate number of Private room next to Central Park! (id: 15101555) in Upper West Side?", "answer": "5.0"}
+{"oid": 37608332, "qid": "easy-airbnb-0217", "question": "What is the review rate number of COZY ONE BEDROOM APARTMENT IN MANHATTAN (id: 37608332) in Upper East Side?", "answer": "2.0"}
+{"oid": 25251172, "qid": "easy-airbnb-0218", "question": "What is the review rate number of NEW! Beautiful room in flat w/ rooftop in SOHO :) (id: 25251172) in Nolita?", "answer": "4.0"}
+{"oid": 28441257, "qid": "easy-airbnb-0219", "question": "What is the review rate number of UNTITLED at Freeman-Cozy Studio 605 (id: 28441257) in Nolita?", "answer": "2.0"}
+{"oid": 51173373, "qid": "easy-airbnb-0220", "question": "What is the review rate number of Cosy private room in modern sunny Williamsburg apt (id: 51173373) in Williamsburg?", "answer": "1.0"}
+{"oid": 7004837, "qid": "easy-airbnb-0221", "question": "What is the review rate number of Cozy private room (id: 7004837) in Harlem?", "answer": "4.0"}
+{"oid": 29561321, "qid": "easy-airbnb-0222", "question": "What is the review rate number of Studio apartment in Sunset park (id: 29561321) in Borough Park?", "answer": "5.0"}
+{"oid": 43822812, "qid": "easy-airbnb-0223", "question": "What is the review rate number of Big Sunny Room in NYC (B5) (id: 43822812) in Harlem?", "answer": "1.0"}
+{"oid": 47984392, "qid": "easy-airbnb-0224", "question": "What is the review rate number of DSGN by Starck! GYM W&D Basket Ball Court !5183 (id: 47984392) in Financial District?", "answer": "2.0"}
+{"oid": 42988287, "qid": "easy-airbnb-0225", "question": "What is the average number of reviews per month of Stay in a beautiful apartment&experience Harlem! (id: 42988287) in East Harlem?", "answer": "2.54"}
+{"oid": 13571132, "qid": "easy-airbnb-0226", "question": "What is the average number of reviews per month of Luxury Townhouse (id: 13571132) in East Harlem?", "answer": "2.03"}
+{"oid": 5960990, "qid": "easy-airbnb-0227", "question": "What is the average number of reviews per month of Nice Single room sublet for April 1st onward! (id: 5960990) in Flatbush?", "answer": "0.06"}
+{"oid": 37704433, "qid": "easy-airbnb-0228", "question": "What is the average number of reviews per month of Spacious Bright and Affordable studio , UES (id: 37704433) in Upper East Side?", "answer": "0.24"}
+{"oid": 13187836, "qid": "easy-airbnb-0229", "question": "What is the average number of reviews per month of Prospect Heights Jewel (id: 13187836) in Prospect Heights?", "answer": "nan"}
+{"oid": 35637174, "qid": "easy-airbnb-0230", "question": "What is the average number of reviews per month of Newly Renovated Near Central Park (id: 35637174) in Upper East Side?", "answer": "0.09"}
+{"oid": 30916113, "qid": "easy-airbnb-0231", "question": "What is the average number of reviews per month of ***Lovely 2 Bedroom Apt in Prospect Heights*** (id: 30916113) in Crown Heights?", "answer": "2.2"}
+{"oid": 38062875, "qid": "easy-airbnb-0232", "question": "What is the average number of reviews per month of Spacious and bright apartment in Brooklyn (id: 38062875) in Crown Heights?", "answer": "0.05"}
+{"oid": 24852412, "qid": "easy-airbnb-0233", "question": "What is the average number of reviews per month of New York at its BEST! (id: 24852412) in Flatbush?", "answer": "0.94"}
+{"oid": 9283627, "qid": "easy-airbnb-0234", "question": "What is the average number of reviews per month of 10minutes to Manhattan from Astoria (id: 9283627) in Astoria?", "answer": "0.33"}
+{"oid": 25240678, "qid": "easy-airbnb-0235", "question": "What is the average number of reviews per month of Your New Private Bedroom Awaits! Near Good Transit (id: 25240678) in Ridgewood?", "answer": "nan"}
+{"oid": 49499904, "qid": "easy-airbnb-0236", "question": "What is the average number of reviews per month of Large 1BR in Heart of the West Village (id: 49499904) in West Village?", "answer": "0.55"}
+{"oid": 20152339, "qid": "easy-airbnb-0237", "question": "What is the average number of reviews per month of Light-filled, Airy, 2-Bedroom w/ City Views (id: 20152339) in Harlem?", "answer": "nan"}
+{"oid": 21081307, "qid": "easy-airbnb-0238", "question": "What is the average number of reviews per month of Nice Couple in A Walk in Basement with Window (id: 21081307) in Borough Park?", "answer": "nan"}
+{"oid": 32810502, "qid": "easy-airbnb-0239", "question": "What is the average number of reviews per month of 15 Mins to Times Square & Manhattan-3 BR Apartment (id: 32810502) in Sunnyside?", "answer": "3.03"}
+{"oid": 31101134, "qid": "easy-airbnb-0240", "question": "What is the average number of reviews per month of Spacious & Modern Luxury Apartment (id: 31101134) in Ditmars Steinway?", "answer": "0.32"}
+{"oid": 30310240, "qid": "easy-airbnb-0241", "question": "What is the average number of reviews per month of Cozy studio in Park Slope (id: 30310240) in Park Slope?", "answer": "2.1"}
+{"oid": 45019646, "qid": "easy-airbnb-0242", "question": "What is the average number of reviews per month of Fresh, bright modern studio w/ Garage Parking (id: 45019646) in Flushing?", "answer": "3.52"}
+{"oid": 4328944, "qid": "easy-airbnb-0243", "question": "What is the average number of reviews per month of Apartment Crown Heights Brooklyn NY (id: 4328944) in East Flatbush?", "answer": "1.85"}
+{"oid": 13273442, "qid": "easy-airbnb-0244", "question": "What is the average number of reviews per month of Sunny and spacious apartment in Greenpoint (id: 13273442) in Greenpoint?", "answer": "0.07"}
+{"oid": 48936005, "qid": "easy-airbnb-0245", "question": "What is the average number of reviews per month of *Cozy apt Manhattan,Near Central Park !* (id: 48936005) in Upper East Side?", "answer": "1.76"}
+{"oid": 54705883, "qid": "easy-airbnb-0246", "question": "What is the average number of reviews per month of 1 BEDROOM ON UES-DOORMAN/WASHER/DRYER (id: 54705883) in Upper East Side?", "answer": "nan"}
+{"oid": 16228799, "qid": "easy-airbnb-0247", "question": "What is the average number of reviews per month of 1 BR near Union Square (id: 16228799) in East Village?", "answer": "0.05"}
+{"oid": 22221807, "qid": "easy-airbnb-0248", "question": "What is the average number of reviews per month of Room into heart of Brooklyn close  Prospect Park D (id: 22221807) in Prospect-Lefferts Gardens?", "answer": "1.86"}
+{"oid": 17903925, "qid": "easy-airbnb-0249", "question": "What is the average number of reviews per month of Beautiful 1 BD Apt in Upper West Manhattan (id: 17903925) in Morningside Heights?", "answer": "0.16"}

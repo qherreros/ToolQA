@@ -1,100 +1,250 @@
-{"oid": "agenda-4342", "qid": "easy-agenda-0000", "question": "How long did Joshua attend Horseback Riding on 2022/03/21?", "answer": "2:30:00"}
-{"oid": "agenda-0613", "qid": "easy-agenda-0001", "question": "How long did Freya attend Breakfast with family on 2022/07/15?", "answer": "1:00:00"}
-{"oid": "agenda-4691", "qid": "easy-agenda-0002", "question": "How long did Charlotte attend Product Presentation on 2022/12/14?", "answer": "2:00:00"}
-{"oid": "agenda-7834", "qid": "easy-agenda-0003", "question": "Where did Music Festival that Matthew attended take place on 2022/02/12?", "answer": "Outdoor Amphitheater in City Name"}
-{"oid": "agenda-3738", "qid": "easy-agenda-0004", "question": "How long did Willow attend Holiday Charity Drive on 2022/04/09?", "answer": "2:00:00"}
-{"oid": "agenda-1019", "qid": "easy-agenda-0005", "question": "Where did Boot camp workout that Albert attended take place on 2022/05/11?", "answer": "FIT Personal Training"}
-{"oid": "agenda-3275", "qid": "easy-agenda-0006", "question": "How long did Zara attend Family Barbecue on 2022/01/17?", "answer": "2:30:00"}
-{"oid": "agenda-1228", "qid": "easy-agenda-0007", "question": "Who attended Conference between 9:00 AM and 5:00 PM on 2022/08/09 in Los Angeles Convention Center?", "answer": "Charlotte"}
-{"oid": "agenda-9056", "qid": "easy-agenda-0008", "question": "Who attended Karaoke night with friends between 8:00 PM and 11:00 PM on 2022/08/13 in Brass Monkey Cafe?", "answer": "Stephen"}
-{"oid": "agenda-1272", "qid": "easy-agenda-0009", "question": "How long did Florence attend Science Exhibition on 2022/09/23?", "answer": "5:00:00"}
-{"oid": "agenda-4147", "qid": "easy-agenda-0010", "question": "How long did Ava attend Team building outing on 2022/05/18?", "answer": "2:00:00"}
-{"oid": "agenda-7345", "qid": "easy-agenda-0011", "question": "When did Savannah attend Art appreciation tour on 2022/04/16?", "answer": "10:00 AM"}
-{"oid": "agenda-3926", "qid": "easy-agenda-0012", "question": "When did Hannah attend Calligraphy lesson on 2022/07/22?", "answer": "2:30 PM"}
-{"oid": "agenda-7256", "qid": "easy-agenda-0013", "question": "Where did Restaurant Week that Phillip attended take place on 2022/02/16?", "answer": "The Capital Grille, Boylston St."}
-{"oid": "agenda-8581", "qid": "easy-agenda-0014", "question": "When did Georgina attend Art Museum Tour on 2022/07/02?", "answer": "10:00 AM"}
-{"oid": "agenda-8045", "qid": "easy-agenda-0015", "question": "When did Adrian attend Cooking demonstration on 2022/03/25?", "answer": "2:00 PM"}
-{"oid": "agenda-2320", "qid": "easy-agenda-0016", "question": "How long did Brian attend Valentine's Day dinner on 2022/08/27?", "answer": "3:00:00"}
-{"oid": "agenda-1580", "qid": "easy-agenda-0017", "question": "When did Richard attend Writing retreat on 2022/02/17?", "answer": "10:00 AM"}
-{"oid": "agenda-6214", "qid": "easy-agenda-0018", "question": "Who attended Ice Skating between 4:00 PM and 6:00 PM on 2022/09/25 in Rockefeller Center Ice Rink?", "answer": "Charlotte"}
-{"oid": "agenda-8684", "qid": "easy-agenda-0019", "question": "When did Alexander attend Family karaoke night on 2022/05/31?", "answer": "6:00 PM"}
-{"oid": "agenda-2504", "qid": "easy-agenda-0020", "question": "Where did Graduation ceremony that Aidan attended take place on 2022/01/06?", "answer": "University of Southern California (USC) Campus"}
-{"oid": "agenda-1635", "qid": "easy-agenda-0021", "question": "How long did Samuel attend Shopping Spree on 2022/11/02?", "answer": "2:00:00"}
-{"oid": "agenda-3059", "qid": "easy-agenda-0022", "question": "Where did Wedding Rehearsal Dinner that George attended take place on 2022/10/15?", "answer": "Figueroa Hotel"}
-{"oid": "agenda-8540", "qid": "easy-agenda-0023", "question": "What did Anthony do from 10:00 AM to 12:00 PM on 2022/01/12?", "answer": "Painting Class"}
-{"oid": "agenda-2127", "qid": "easy-agenda-0024", "question": "When did Aurora attend Swim class on 2022/05/10?", "answer": "4:00 PM"}
-{"oid": "agenda-2370", "qid": "easy-agenda-0025", "question": "How long did Daniel attend Apple picking on 2022/07/21?", "answer": "3:00:00"}
-{"oid": "agenda-0712", "qid": "easy-agenda-0026", "question": "Where did Music lessons that Benjamin attended take place on 2022/11/30?", "answer": "San Francisco Conservatory of Music"}
-{"oid": "agenda-8886", "qid": "easy-agenda-0027", "question": "How long did David attend Debate club on 2022/04/23?", "answer": "2:00:00"}
-{"oid": "agenda-2094", "qid": "easy-agenda-0028", "question": "Where did Tennis lessons that Savannah attended take place on 2022/11/12?", "answer": "Central Park Tennis Courts"}
-{"oid": "agenda-7753", "qid": "easy-agenda-0029", "question": "Who attended Children's theater play between 2:00 PM and 3:30 PM on 2022/07/12 in Children's Theatre ?", "answer": "Grace"}
-{"oid": "agenda-6167", "qid": "easy-agenda-0030", "question": "What did Imogen do from 1:00 PM to 4:00 PM on 2022/07/14?", "answer": "Entrepreneurship workshop"}
-{"oid": "agenda-6957", "qid": "easy-agenda-0031", "question": "When did Amelia attend Crabbing tour on 2022/08/28?", "answer": "9:00 AM"}
-{"oid": "agenda-7724", "qid": "easy-agenda-0032", "question": "When did Imogen attend Cooking competition on 2022/05/30?", "answer": "2:00 PM"}
-{"oid": "agenda-3875", "qid": "easy-agenda-0033", "question": "Where did Wine and paint night that Lily attended take place on 2022/07/22?", "answer": "Art Studio "}
-{"oid": "agenda-2985", "qid": "easy-agenda-0034", "question": "Where did Movie Night that Lucy attended take place on 2022/12/17?", "answer": "AMC Theater"}
-{"oid": "agenda-7598", "qid": "easy-agenda-0035", "question": "Who attended Ice skating between 12:00 PM and 2:00 PM on 2022/03/16 in Yerba Buena Ice Skating Center?", "answer": "Mia"}
-{"oid": "agenda-6848", "qid": "easy-agenda-0036", "question": "Where did Trampoline Park Visit that Nicholas attended take place on 2022/02/15?", "answer": "Sky Zone Trampoline Park"}
-{"oid": "agenda-1189", "qid": "easy-agenda-0037", "question": "When did Maisie attend Farmer's market visit on 2022/07/26?", "answer": "10:00 AM"}
-{"oid": "agenda-3396", "qid": "easy-agenda-0038", "question": "Who attended Trivia night between 6:00 PM and 8:00 PM on 2022/12/26 in The Quiz Club?", "answer": "Sophie"}
-{"oid": "agenda-0851", "qid": "easy-agenda-0039", "question": "Who attended Laser Tag between 2:00 PM and 4:00 PM on 2022/02/22 in Ultrazone Laser Tag?", "answer": "Georgia"}
-{"oid": "agenda-7760", "qid": "easy-agenda-0040", "question": "How long did Madison attend Cooking Class on 2022/04/30?", "answer": "2:00:00"}
-{"oid": "agenda-2040", "qid": "easy-agenda-0041", "question": "When did Matthew attend Interior design class on 2022/04/08?", "answer": "10:00 AM"}
-{"oid": "agenda-8173", "qid": "easy-agenda-0042", "question": "How long did Timothy attend Tech conference on 2022/04/16?", "answer": "7:00:00"}
-{"oid": "agenda-2426", "qid": "easy-agenda-0043", "question": "How long did Andrew attend Wine tasting on 2022/05/20?", "answer": "2:00:00"}
-{"oid": "agenda-6824", "qid": "easy-agenda-0044", "question": "How long did Lily attend Personal Styling Session on 2022/12/16?", "answer": "1:30:00"}
-{"oid": "agenda-1590", "qid": "easy-agenda-0045", "question": "When did Ava attend Belly dancing class on 2022/12/19?", "answer": "6:00 PM"}
-{"oid": "agenda-0285", "qid": "easy-agenda-0046", "question": "What did Christopher do from 8:00 AM to 11:00 AM on 2022/09/31?", "answer": "Charity bike ride"}
-{"oid": "agenda-3542", "qid": "easy-agenda-0047", "question": "When did Florence attend Self-Defense class on 2022/09/27?", "answer": "4:00 PM"}
-{"oid": "agenda-3909", "qid": "easy-agenda-0048", "question": "What did Grace do from 6:00 PM to 9:00 PM on 2022/11/13?", "answer": "Game night"}
-{"oid": "agenda-5581", "qid": "easy-agenda-0049", "question": "What did Abigail do from 7:00 PM to 10:00 PM on 2022/12/08?", "answer": "Broadway show"}
-{"oid": "agenda-0342", "qid": "easy-agenda-0050", "question": "When did Layla attend Farmer's market on 2022/08/12?", "answer": "8:00 AM"}
-{"oid": "agenda-4777", "qid": "easy-agenda-0051", "question": "Where did Book club meeting that Molly attended take place on 2022/07/17?", "answer": "Barnes & Noble"}
-{"oid": "agenda-8141", "qid": "easy-agenda-0052", "question": "Who attended Silent disco between 8:00 PM and 10:00 PM on 2022/06/05 in Off the Grid?", "answer": "Jasmine"}
-{"oid": "agenda-5100", "qid": "easy-agenda-0053", "question": "When did Nicholas attend History-themed escape room on 2022/07/06?", "answer": "3:00 PM"}
-{"oid": "agenda-4753", "qid": "easy-agenda-0054", "question": "What did Adrian do from 9:00 AM to 12:00 PM on 2022/08/07?", "answer": "Writing Workshop"}
-{"oid": "agenda-1383", "qid": "easy-agenda-0055", "question": "How long did Ella attend Wine making tour on 2022/01/23?", "answer": "2:00:00"}
-{"oid": "agenda-0933", "qid": "easy-agenda-0056", "question": "Where did Film Screening and Discussion that Abigail attended take place on 2022/08/22?", "answer": "Film Forum"}
-{"oid": "agenda-3724", "qid": "easy-agenda-0057", "question": "How long did Lucy attend Art and Culture Festival on 2022/04/03?", "answer": "10:00:00"}
-{"oid": "agenda-6260", "qid": "easy-agenda-0058", "question": "What did Aidan do from 5:00 PM to 7:00 PM on 2022/12/23?", "answer": "Wine and cheese tasting"}
-{"oid": "agenda-9335", "qid": "easy-agenda-0059", "question": "Who attended Beer tasting between 2:00 PM and 5:00 PM on 2022/02/28 in Monkish Brewing Co.?", "answer": "Imogen"}
-{"oid": "agenda-0685", "qid": "easy-agenda-0060", "question": "Where did Art class that Benjamin attended take place on 2022/07/25?", "answer": "Main Street Art Studio"}
-{"oid": "agenda-7232", "qid": "easy-agenda-0061", "question": "Where did Cruise on Charles that Madison attended take place on 2022/12/09?", "answer": "The Charles Riverboat Company, Atlantic Ave."}
-{"oid": "agenda-7530", "qid": "easy-agenda-0062", "question": "Where did Jazz brunch that Maisie attended take place on 2022/12/04?", "answer": "Minton's Harlem"}
-{"oid": "agenda-1555", "qid": "easy-agenda-0063", "question": "Where did Mindfulness meditation class that James attended take place on 2022/10/23?", "answer": "InsightLA"}
-{"oid": "agenda-6554", "qid": "easy-agenda-0064", "question": "How long did Daisy attend Networking mixer on 2022/04/11?", "answer": "2:00:00"}
-{"oid": "agenda-4376", "qid": "easy-agenda-0065", "question": "How long did Henry attend Jogging on 2022/12/22?", "answer": "1:00:00"}
-{"oid": "agenda-5605", "qid": "easy-agenda-0066", "question": "When did Georgina attend Stand-up comedy show on 2022/08/31?", "answer": "9:00 PM"}
-{"oid": "agenda-9279", "qid": "easy-agenda-0067", "question": "Who attended Lawn Bowling between 10:00 AM and 12:00 PM on 2022/06/12 in Lawn Bowling Club, Cheviot Hills?", "answer": "Hannah"}
-{"oid": "agenda-8277", "qid": "easy-agenda-0068", "question": "Who attended Pilates class between 11:00 AM and 12:00 PM on 2022/07/23 in The Pilates Studio?", "answer": "Henry"}
-{"oid": "agenda-7334", "qid": "easy-agenda-0069", "question": "What did Samuel do from 9:00 PM to 11:00 PM on 2022/03/25?", "answer": "Salsa dancing"}
-{"oid": "agenda-4856", "qid": "easy-agenda-0070", "question": "How long did David attend Attend a silent disco party on 2022/05/30?", "answer": "3:00:00"}
-{"oid": "agenda-5936", "qid": "easy-agenda-0071", "question": "How long did Florence attend Community garden workday on 2022/04/06?", "answer": "3:00:00"}
-{"oid": "agenda-3729", "qid": "easy-agenda-0072", "question": "When did Imogen attend Academic Lecture on 2022/11/02?", "answer": "7:00 PM"}
-{"oid": "agenda-6436", "qid": "easy-agenda-0073", "question": "Who attended Art museum visit between 12:00 PM and 2:00 PM on 2022/06/10 in The Metropolitan Museum of Art?", "answer": "Grace"}
-{"oid": "agenda-2657", "qid": "easy-agenda-0074", "question": "Where did Animal Sanctuary Tour that Emily attended take place on 2022/09/02?", "answer": "The Big Cat Rescue Sanctuary "}
-{"oid": "agenda-5523", "qid": "easy-agenda-0075", "question": "What did Isabella do from 2:00 PM to 4:00 PM on 2022/10/19?", "answer": "Social Media Marketing Workshop"}
-{"oid": "agenda-1511", "qid": "easy-agenda-0076", "question": "Where did Ping pong tournament that Sofia attended take place on 2022/01/31?", "answer": "Spin New York "}
-{"oid": "agenda-2247", "qid": "easy-agenda-0077", "question": "How long did George attend Baking workshop on 2022/08/06?", "answer": "2:00:00"}
-{"oid": "agenda-3507", "qid": "easy-agenda-0078", "question": "When did Imogen attend Wine Tasting on 2022/05/24?", "answer": "7:00 PM"}
-{"oid": "agenda-3591", "qid": "easy-agenda-0079", "question": "Who attended Piano Lesson between 3:00 PM and 4:00 PM on 2022/05/05 in The Juilliard School ?", "answer": "Imogen"}
-{"oid": "agenda-6680", "qid": "easy-agenda-0080", "question": "Where did Art of the deal seminar that Joseph attended take place on 2022/06/19?", "answer": "Trump Tower "}
-{"oid": "agenda-0522", "qid": "easy-agenda-0081", "question": "What did Sophia do from 11:00 AM to 2:00 PM on 2022/09/29?", "answer": "Sightseeing tour"}
-{"oid": "agenda-6902", "qid": "easy-agenda-0082", "question": "When did Edward attend Beer festival on 2022/12/28?", "answer": "12:00 PM"}
-{"oid": "agenda-0052", "qid": "easy-agenda-0083", "question": "When did Ella attend Meet-and-greet with author on 2022/03/30?", "answer": "3:00 PM"}
-{"oid": "agenda-0396", "qid": "easy-agenda-0084", "question": "Where did Karaoke Night that David attended take place on 2022/11/27?", "answer": "Joxer Daly's "}
-{"oid": "agenda-3750", "qid": "easy-agenda-0085", "question": "When did Sophia attend Fundraiser event on 2022/10/28?", "answer": "6:00 PM"}
-{"oid": "agenda-1626", "qid": "easy-agenda-0086", "question": "How long did Esme attend Charity Fundraiser on 2022/09/28?", "answer": "4:00:00"}
-{"oid": "agenda-2803", "qid": "easy-agenda-0087", "question": "What did Sophie do from 6:00 PM to 7:00 PM on 2022/07/20?", "answer": "Dance class"}
-{"oid": "agenda-1261", "qid": "easy-agenda-0088", "question": "Where did Sailing Lessons that Molly attended take place on 2022/04/20?", "answer": "Marina Del Rey "}
-{"oid": "agenda-0117", "qid": "easy-agenda-0089", "question": "When did Phillip attend Dance Performance on 2022/03/25?", "answer": "8:00 PM"}
-{"oid": "agenda-8513", "qid": "easy-agenda-0090", "question": "How long did Willow attend Bowling game on 2022/11/07?", "answer": "1:30:00"}
-{"oid": "agenda-9015", "qid": "easy-agenda-0091", "question": "How long did Henry attend Lunch Meeting on 2022/02/10?", "answer": "1:00:00"}
-{"oid": "agenda-0587", "qid": "easy-agenda-0092", "question": "Who attended Business networking breakfast between 7:00 AM and 9:00 AM on 2022/07/01 in The Ritz-Carlton Hotel?", "answer": "Christopher"}
-{"oid": "agenda-8553", "qid": "easy-agenda-0093", "question": "When did Matilda attend Karaoke Night on 2022/03/07?", "answer": "9:00 PM"}
-{"oid": "agenda-5938", "qid": "easy-agenda-0094", "question": "How long did Willow attend Volunteer at senior center on 2022/12/14?", "answer": "2:00:00"}
-{"oid": "agenda-7195", "qid": "easy-agenda-0095", "question": "What did Jessica do from 11:00 AM to 5:00 PM on 2022/11/30?", "answer": "Business Summit"}
-{"oid": "agenda-5421", "qid": "easy-agenda-0096", "question": "Who attended Volunteer appreciation party between 6:00 PM and 8:00 PM on 2022/03/16 in The Community Center \r?", "answer": "Patrick"}
-{"oid": "agenda-5751", "qid": "easy-agenda-0097", "question": "How long did Daisy attend Batting practice on 2022/01/09?", "answer": "1:30:00"}
-{"oid": "agenda-1105", "qid": "easy-agenda-0098", "question": "When did Sofia attend Knitting Workshop on 2022/05/02?", "answer": "2:00 PM"}
-{"oid": "agenda-8200", "qid": "easy-agenda-0099", "question": "Who attended Kids concert between 10:00 AM and 11:00 AM on 2022/01/25 in The Children's Museum of Indianapolis?", "answer": "Jade"}
+{"oid": "agenda-2223", "qid": "easy-agenda-0000", "question": "Where did Lunch meeting with Boss that Matthew attended take place on 2022/08/28?", "answer": "The Capital Grille"}
+{"oid": "agenda-6613", "qid": "easy-agenda-0001", "question": "What did Charlotte do from 7:30 PM to 10:30 PM on 2022/03/19?", "answer": "Opera"}
+{"oid": "agenda-8781", "qid": "easy-agenda-0002", "question": "Who attended Ice skating between 2:00 PM and 3:30 PM on 2022/09/13 in The Rink at Rockefeller Center?", "answer": "Mia"}
+{"oid": "agenda-7914", "qid": "easy-agenda-0003", "question": "When did Jasmine attend Opera performance on 2022/05/02?", "answer": "7:00 PM"}
+{"oid": "agenda-8039", "qid": "easy-agenda-0004", "question": "Where did Animal sanctuary volunteering that Victoria attended take place on 2022/09/16?", "answer": "The Gentle Barn"}
+{"oid": "agenda-8634", "qid": "easy-agenda-0005", "question": "What did Elizabeth do from 2:00 PM to 4:00 PM on 2022/05/31?", "answer": "Project presentation"}
+{"oid": "agenda-3143", "qid": "easy-agenda-0006", "question": "What did Amelia do from 10:00 AM to 12:00 PM on 2022/06/01?", "answer": "Professional photography course"}
+{"oid": "agenda-4686", "qid": "easy-agenda-0007", "question": "How long did Alexander attend Political Rally on 2022/11/14?", "answer": "2:00:00"}
+{"oid": "agenda-0539", "qid": "easy-agenda-0008", "question": "What did Ruby do from 7:00 PM to 9:00 PM on 2022/04/17?", "answer": "Wine and paint night"}
+{"oid": "agenda-3979", "qid": "easy-agenda-0009", "question": "Who attended Board game night with friends between 6:00 PM and 9:00 PM on 2022/09/29 in Victory Point Cafe?", "answer": "Andrew"}
+{"oid": "agenda-3550", "qid": "easy-agenda-0010", "question": "Where did Brunch Date with Friends that Ava attended take place on 2022/06/04?", "answer": "The Smith Restaurant"}
+{"oid": "agenda-6830", "qid": "easy-agenda-0011", "question": "How long did Emily attend Photography Session on 2022/08/01?", "answer": "1:00:00"}
+{"oid": "agenda-5996", "qid": "easy-agenda-0012", "question": "How long did Savannah attend Meet with makeup artist on 2022/10/09?", "answer": "1:00:00"}
+{"oid": "agenda-6936", "qid": "easy-agenda-0013", "question": "How long did Emma attend Fitness boot camp on 2022/03/15?", "answer": "1:00:00"}
+{"oid": "agenda-6382", "qid": "easy-agenda-0014", "question": "How long did Imogen attend Digital design class on 2022/02/11?", "answer": "2:00:00"}
+{"oid": "agenda-7144", "qid": "easy-agenda-0015", "question": "How long did Alice attend Visit to amusement park on 2022/10/27?", "answer": "7:00:00"}
+{"oid": "agenda-8557", "qid": "easy-agenda-0016", "question": "Where did Beer Festival that Edward attended take place on 2022/01/10?", "answer": "Nationals Park"}
+{"oid": "agenda-3484", "qid": "easy-agenda-0017", "question": "When did Georgia attend Broadway Musical on 2022/09/08?", "answer": "2:00 PM"}
+{"oid": "agenda-6232", "qid": "easy-agenda-0018", "question": "Who attended Indoor skydiving between 1:00 PM and 3:00 PM on 2022/11/21 in iFLY Indoor Skydiving?", "answer": "Victoria"}
+{"oid": "agenda-5906", "qid": "easy-agenda-0019", "question": "When did Willow attend Employee appreciation day on 2022/09/13?", "answer": "12:00 PM"}
+{"oid": "agenda-4102", "qid": "easy-agenda-0020", "question": "Who attended Go to the ice rink between 4:00 PM and 6:00 PM on 2022/09/01 in The Skating Pavilion?", "answer": "Emma"}
+{"oid": "agenda-2923", "qid": "easy-agenda-0021", "question": "Who attended Nature hike between 9 AM and 12 PM on 2022/03/19 in Forest Park?", "answer": "Patrick"}
+{"oid": "agenda-0721", "qid": "easy-agenda-0022", "question": "Who attended Craft beer tasting between 5:00 PM and 7:00 PM on 2022/07/27 in Speakeasy Ales & Lagers?", "answer": "Sophie"}
+{"oid": "agenda-4813", "qid": "easy-agenda-0023", "question": "Who attended Screenwriting seminar between 6:30 PM and 8:30 PM on 2022/07/23 in The New York Film Academy?", "answer": "Layla"}
+{"oid": "agenda-5694", "qid": "easy-agenda-0024", "question": "What did Christopher do from 6:00 PM to 9:00 PM on 2022/09/16?", "answer": "Seafood dinner"}
+{"oid": "agenda-1024", "qid": "easy-agenda-0025", "question": "Where did Open house that Alexander attended take place on 2022/05/05?", "answer": "Keller Williams Realty"}
+{"oid": "agenda-8928", "qid": "easy-agenda-0026", "question": "When did Charlotte attend Haircut on 2022/04/23?", "answer": "10:00 AM"}
+{"oid": "agenda-3871", "qid": "easy-agenda-0027", "question": "Where did Community meeting that Freya attended take place on 2022/10/24?", "answer": "Town Hall"}
+{"oid": "agenda-3043", "qid": "easy-agenda-0028", "question": "What did Albert do from 6:00 PM to 9:00 PM on 2022/04/13?", "answer": "Date Night at Home"}
+{"oid": "agenda-9482", "qid": "easy-agenda-0029", "question": "Who attended Cheese + Wine festival between 1:00 PM and 5:00 PM on 2022/12/19 in Brooklyn Expo Center?", "answer": "Phoebe"}
+{"oid": "agenda-0840", "qid": "easy-agenda-0030", "question": "What did Edward do from 11:00 AM to 4:00 PM on 2022/05/14?", "answer": "Museum Day"}
+{"oid": "agenda-4498", "qid": "easy-agenda-0031", "question": "Where did Virtual reality demonstration that Georgia attended take place on 2022/02/07?", "answer": "Tech Company"}
+{"oid": "agenda-2694", "qid": "easy-agenda-0032", "question": "What did Emily do from 9:00 AM to 11:00 AM on 2022/04/24?", "answer": "Indoor Rock Climbing"}
+{"oid": "agenda-0379", "qid": "easy-agenda-0033", "question": "Who attended Skiing lessons between 11:00 AM and 2:00 PM on 2022/03/28 in Snow Creek Ski Area?", "answer": "Olivia"}
+{"oid": "agenda-0874", "qid": "easy-agenda-0034", "question": "Where did Vintage Clothing Sale that Natalie attended take place on 2022/11/25?", "answer": "Rose Bowl Flea Market"}
+{"oid": "agenda-2741", "qid": "easy-agenda-0035", "question": "What did Benjamin do from 9:00 AM to 10:00 AM on 2022/02/21?", "answer": "Kickboxing Class"}
+{"oid": "agenda-6938", "qid": "easy-agenda-0036", "question": "What did Timothy do from 10:00 AM to 2:00 PM on 2022/04/09?", "answer": "Kayaking trip"}
+{"oid": "agenda-0275", "qid": "easy-agenda-0037", "question": "Who attended Cooking demonstration between 5:00 PM and 6:00 PM on 2022/05/29 in Sur La Table?", "answer": "Lily"}
+{"oid": "agenda-1001", "qid": "easy-agenda-0038", "question": "What did John do from 6:00 PM to 8:00 PM on 2022/04/09?", "answer": "Art exhibit"}
+{"oid": "agenda-6709", "qid": "easy-agenda-0039", "question": "When did Emily attend Science Fiction Book Club Meeting on 2022/08/26?", "answer": "7:00 PM"}
+{"oid": "agenda-9166", "qid": "easy-agenda-0040", "question": "Where did 5k charity run that Layla attended take place on 2022/07/17?", "answer": "Charity Miles"}
+{"oid": "agenda-5020", "qid": "easy-agenda-0041", "question": "What did Florence do from 10:00 AM to 1:00 PM on 2022/12/29?", "answer": "Soup Kitchen Volunteering"}
+{"oid": "agenda-5790", "qid": "easy-agenda-0042", "question": "Where did Model train show that Amelia attended take place on 2022/07/05?", "answer": "The Model Train Museum"}
+{"oid": "agenda-8789", "qid": "easy-agenda-0043", "question": "Who attended Painting class between 4:00 PM and 6:00 PM on 2022/07/05 in Paint Nite?", "answer": "Abigail"}
+{"oid": "agenda-6516", "qid": "easy-agenda-0044", "question": "What did Georgina do from 7:00 PM to 9:00 PM on 2022/05/30?", "answer": "Trivia night"}
+{"oid": "agenda-5488", "qid": "easy-agenda-0045", "question": "What did Savannah do from 6:00 PM to 8:00 PM on 2022/12/02?", "answer": "Creative Writing Workshop"}
+{"oid": "agenda-2660", "qid": "easy-agenda-0046", "question": "Who attended Hot Air Balloon Ride between 6:00 AM and 9:00 AM on 2022/04/18 in The Temecula Balloon Experience ?", "answer": "Christopher"}
+{"oid": "agenda-3965", "qid": "easy-agenda-0047", "question": "Where did Massage therapy appointment that Hector attended take place on 2022/03/01?", "answer": "Relaxing Wellness Center"}
+{"oid": "agenda-5415", "qid": "easy-agenda-0048", "question": "What did Stephen do from 12:00 PM to 5:00 PM on 2022/05/19?", "answer": "Multicultural festival"}
+{"oid": "agenda-3209", "qid": "easy-agenda-0049", "question": "Who attended Dog show between 11:00 AM and 2:00 PM on 2022/05/04 in The Fairgrounds?", "answer": "Jessica"}
+{"oid": "agenda-7214", "qid": "easy-agenda-0050", "question": "What did Summer do from 12:00 PM to 7:00 PM on 2022/11/18?", "answer": "Music Festival"}
+{"oid": "agenda-9213", "qid": "easy-agenda-0051", "question": "Who attended Ice cream festival between 12:00 PM and 6:00 PM on 2022/03/25 in The Museum of Ice Cream?", "answer": "Aidan"}
+{"oid": "agenda-3523", "qid": "easy-agenda-0052", "question": "Who attended Creative Writing class between 4:00 PM and 6:00 PM on 2022/09/26 in Gotham Writers Workshop?", "answer": "Elizabeth"}
+{"oid": "agenda-3997", "qid": "easy-agenda-0053", "question": "How long did Georgia attend Creative writing workshop on 2022/02/16?", "answer": "2:00:00"}
+{"oid": "agenda-0909", "qid": "easy-agenda-0054", "question": "Where did Ice Cream Tasting that Charlotte attended take place on 2022/12/27?", "answer": "Big Gay Ice Cream Shop"}
+{"oid": "agenda-5235", "qid": "easy-agenda-0055", "question": "What did Harper do from 5:00 AM to 6:30 AM on 2022/05/12?", "answer": "Video conference with Paris office"}
+{"oid": "agenda-6922", "qid": "easy-agenda-0056", "question": "When did Benjamin attend Skateboarding lesson on 2022/11/24?", "answer": "2:00 PM"}
+{"oid": "agenda-7224", "qid": "easy-agenda-0057", "question": "What did Albert do from 2:00 PM to 4:30 PM on 2022/11/30?", "answer": "Opera Performance"}
+{"oid": "agenda-4121", "qid": "easy-agenda-0058", "question": "Where did Photography walk that Freya attended take place on 2022/03/27?", "answer": "The City Photography Tour"}
+{"oid": "agenda-1985", "qid": "easy-agenda-0059", "question": "Where did Jazz bar visit that Emily attended take place on 2022/05/31?", "answer": "Bird & Beckett Books and Records"}
+{"oid": "agenda-5255", "qid": "easy-agenda-0060", "question": "What did Brian do from 10:00 AM to 2:00 PM on 2022/02/05?", "answer": "Artisan fair"}
+{"oid": "agenda-7572", "qid": "easy-agenda-0061", "question": "Where did Shopping trip that Amelia attended take place on 2022/06/08?", "answer": "Westfield Mall"}
+{"oid": "agenda-0428", "qid": "easy-agenda-0062", "question": "How long did Daniel attend Scavenger Hunt on 2022/05/23?", "answer": "2:00:00"}
+{"oid": "agenda-4132", "qid": "easy-agenda-0063", "question": "When did Mia attend Take kids to the circus on 2022/02/17?", "answer": "11:00 AM"}
+{"oid": "agenda-9157", "qid": "easy-agenda-0064", "question": "When did Molly attend Painting workshop on 2022/10/26?", "answer": "2:00 PM"}
+{"oid": "agenda-8718", "qid": "easy-agenda-0065", "question": "Where did Baby shower that Hector attended take place on 2022/11/03?", "answer": "The Party Room at The Gables"}
+{"oid": "agenda-2309", "qid": "easy-agenda-0066", "question": "What did Emily do from 11:00 AM to 1:00 PM on 2022/04/01?", "answer": "Bridal shower"}
+{"oid": "agenda-5098", "qid": "easy-agenda-0067", "question": "When did Emma attend Stand-up comedy performance on 2022/10/19?", "answer": "9:00 PM"}
+{"oid": "agenda-4386", "qid": "easy-agenda-0068", "question": "Where did Dentist Appointment that Savannah attended take place on 2022/02/19?", "answer": "ABC Dental Clinic"}
+{"oid": "agenda-6610", "qid": "easy-agenda-0069", "question": "What did Hector do from 1:00 PM to 3:00 PM on 2022/12/28?", "answer": "Painting class"}
+{"oid": "agenda-0442", "qid": "easy-agenda-0070", "question": "How long did Aidan attend Day Trip to Santa Barbara on 2022/08/13?", "answer": "9:00:00"}
+{"oid": "agenda-2022", "qid": "easy-agenda-0071", "question": "Where did Beach cleanup that Felix attended take place on 2022/10/20?", "answer": "Santa Monica Beach"}
+{"oid": "agenda-4193", "qid": "easy-agenda-0072", "question": "What did Sofia do from 5:30 PM to 6:30 PM on 2022/06/11?", "answer": "17) Hot yoga class"}
+{"oid": "agenda-6447", "qid": "easy-agenda-0073", "question": "Where did Cruising event that Lucy attended take place on 2022/06/16?", "answer": "The Yacht Club"}
+{"oid": "agenda-4525", "qid": "easy-agenda-0074", "question": "What did Esme do from 7:00 AM to 9:00 AM on 2022/02/27?", "answer": "Running club"}
+{"oid": "agenda-0649", "qid": "easy-agenda-0075", "question": "When did Nicholas attend Poetry writing class on 2022/02/27?", "answer": "2:00 PM"}
+{"oid": "agenda-3630", "qid": "easy-agenda-0076", "question": "Where did Arcade Night that Emily attended take place on 2022/02/07?", "answer": "Dave and Buster's "}
+{"oid": "agenda-1491", "qid": "easy-agenda-0077", "question": "Who attended Food truck festival between 11:00 AM and 7:00 PM on 2022/11/09 in Governors Island ?", "answer": "Penelope"}
+{"oid": "agenda-9183", "qid": "easy-agenda-0078", "question": "Who attended Paintball game between 2:00 PM and 4:00 PM on 2022/11/21 in Hollywood Sports Paintball Park?", "answer": "Natalie"}
+{"oid": "agenda-0818", "qid": "easy-agenda-0079", "question": "Where did Wine & Jazz Night that Stephen attended take place on 2022/03/20?", "answer": "Catalina Jazz Club"}
+{"oid": "agenda-0075", "qid": "easy-agenda-0080", "question": "What did Anthony do from 11:00 AM to 1:00 PM on 2022/09/07?", "answer": "French cooking class"}
+{"oid": "agenda-5567", "qid": "easy-agenda-0081", "question": "What did Adam do from 6:00 PM to 9:00 PM on 2022/06/06?", "answer": "Art auction"}
+{"oid": "agenda-0440", "qid": "easy-agenda-0082", "question": "Where did Pet Adoption Event that Hector attended take place on 2022/11/19?", "answer": "The Pet Care "}
+{"oid": "agenda-2483", "qid": "easy-agenda-0083", "question": "What did Hannah do from 2:00 PM to 4:00 PM on 2022/05/16?", "answer": "Join a woodworking workshop"}
+{"oid": "agenda-0289", "qid": "easy-agenda-0084", "question": "What did Anthony do from 7:00 PM to 11:00 PM on 2022/10/22?", "answer": "Poker night"}
+{"oid": "agenda-6098", "qid": "easy-agenda-0085", "question": "How long did Anthony attend Organizing workshop on 2022/12/06?", "answer": "1:00:00"}
+{"oid": "agenda-0136", "qid": "easy-agenda-0086", "question": "How long did Phoebe attend Sake Tasting on 2022/06/04?", "answer": "2:00:00"}
+{"oid": "agenda-3035", "qid": "easy-agenda-0087", "question": "When did Emma attend Meditation Class on 2022/10/27?", "answer": "10:00 AM"}
+{"oid": "agenda-2480", "qid": "easy-agenda-0088", "question": "Who attended Join a jewellery making course between 3:00 PM and 5:00 PM on 2022/07/25 in The Jewellery Making School?", "answer": "Charlotte"}
+{"oid": "agenda-4021", "qid": "easy-agenda-0089", "question": "Who attended Go-kart racing with friends between 2:00 PM and 4:00 PM on 2022/03/11 in K1 Speed?", "answer": "Thomas"}
+{"oid": "agenda-1228", "qid": "easy-agenda-0090", "question": "Where did Conference that Charlotte attended take place on 2022/08/09?", "answer": "Los Angeles Convention Center"}
+{"oid": "agenda-6966", "qid": "easy-agenda-0091", "question": "Where did Pizza-making class that Aidan attended take place on 2022/06/19?", "answer": "Roberta's Pizza"}
+{"oid": "agenda-3885", "qid": "easy-agenda-0092", "question": "What did Maisie do from 12:00 PM to 1:00 PM on 2022/09/13?", "answer": "Dog grooming"}
+{"oid": "agenda-6113", "qid": "easy-agenda-0093", "question": "Where did Development conference that Phillip attended take place on 2022/06/10?", "answer": "Convene at 101 Greenwich"}
+{"oid": "agenda-1709", "qid": "easy-agenda-0094", "question": "How long did Phillip attend Yoga and Brunch on 2022/09/05?", "answer": "2:00:00"}
+{"oid": "agenda-3310", "qid": "easy-agenda-0095", "question": "How long did David attend Creative Writing Workshop on 2022/11/17?", "answer": "3:00:00"}
+{"oid": "agenda-8984", "qid": "easy-agenda-0096", "question": "What did Freya do from 6:00 PM to 8:00 PM on 2022/04/03?", "answer": "Tennis Match"}
+{"oid": "agenda-3866", "qid": "easy-agenda-0097", "question": "Who attended Family dinner between 5:30 PM and 7:30 PM on 2022/11/04 in Home?", "answer": "Natalie"}
+{"oid": "agenda-1844", "qid": "easy-agenda-0098", "question": "When did Abigail attend Business Lunch Meeting on 2022/10/11?", "answer": "12:00 PM"}
+{"oid": "agenda-6018", "qid": "easy-agenda-0099", "question": "How long did Scarlett attend Mental health awareness workshop on 2022/01/29?", "answer": "2:00:00"}
+{"oid": "agenda-9094", "qid": "easy-agenda-0100", "question": "Where did Flower arrangement class that Sophia attended take place on 2022/01/21?", "answer": "Flower Duet"}
+{"oid": "agenda-0989", "qid": "easy-agenda-0101", "question": "Who attended Cooking class between 5:00 PM and 7:00 PM on 2022/10/29 in Sur La Table?", "answer": "Alexander"}
+{"oid": "agenda-5805", "qid": "easy-agenda-0102", "question": "What did Sophia do from 1:00 PM to 3:00 PM on 2022/07/23?", "answer": "Science and technology workshop"}
+{"oid": "agenda-1313", "qid": "easy-agenda-0103", "question": "How long did Henry attend Broadway Musical on 2022/01/27?", "answer": "2:30:00"}
+{"oid": "agenda-1760", "qid": "easy-agenda-0104", "question": "Who attended Stand-up comedy class between 6:00 PM and 8:00 PM on 2022/10/12 in The Broadway Comedy Club?", "answer": "Amelia"}
+{"oid": "agenda-3977", "qid": "easy-agenda-0105", "question": "How long did Thomas attend Hot air balloon ride on 2022/11/10?", "answer": "3:00:00"}
+{"oid": "agenda-7345", "qid": "easy-agenda-0106", "question": "When did Savannah attend Art appreciation tour on 2022/04/16?", "answer": "10:00 AM"}
+{"oid": "agenda-8602", "qid": "easy-agenda-0107", "question": "Who attended Natural History Museum Tour between 10:00 AM and 12:00 PM on 2022/05/12 in Smithsonian National Museum of Natural History?", "answer": "Patrick"}
+{"oid": "agenda-2975", "qid": "easy-agenda-0108", "question": "Who attended Afternoon Shopping between 4:30 PM and 6:00 PM on 2022/06/06 in Westfield Mall?", "answer": "George"}
+{"oid": "agenda-5847", "qid": "easy-agenda-0109", "question": "How long did Imogen attend Live music performance on 2022/07/23?", "answer": "2:00:00"}
+{"oid": "agenda-5653", "qid": "easy-agenda-0110", "question": "Who attended Cooking class between 6:00 PM and 8:00 PM on 2022/10/15 in The Culinary School?", "answer": "Imogen"}
+{"oid": "agenda-9121", "qid": "easy-agenda-0111", "question": "When did Joshua attend Sunset bike ride on 2022/02/03?", "answer": "6:00 PM"}
+{"oid": "agenda-6291", "qid": "easy-agenda-0112", "question": "How long did Jasmine attend Soap making class on 2022/12/17?", "answer": "2:00:00"}
+{"oid": "agenda-4265", "qid": "easy-agenda-0113", "question": "How long did Timothy attend 89) Virtual game night on 2022/09/15?", "answer": "1:00:00"}
+{"oid": "agenda-2429", "qid": "easy-agenda-0114", "question": "How long did Matthew attend Attend job interview on 2022/06/05?", "answer": "1:30:00"}
+{"oid": "agenda-0953", "qid": "easy-agenda-0115", "question": "What did Sophie do from 3:00 PM to 5:00 PM on 2022/10/06?", "answer": "Broadway Dance Class"}
+{"oid": "agenda-8870", "qid": "easy-agenda-0116", "question": "Where did Antique show that Scarlett attended take place on 2022/11/17?", "answer": "The Armory"}
+{"oid": "agenda-6379", "qid": "easy-agenda-0117", "question": "When did Aidan attend Clubbing on 2022/12/03?", "answer": "10:00 PM"}
+{"oid": "agenda-0410", "qid": "easy-agenda-0118", "question": "When did Daisy attend Wine Tasting on 2022/09/03?", "answer": "7:00 PM"}
+{"oid": "agenda-1921", "qid": "easy-agenda-0119", "question": "Who attended Movie night between 6:00 PM and 8:00 PM on 2022/07/16 in AMC Theater?", "answer": "David"}
+{"oid": "agenda-7081", "qid": "easy-agenda-0120", "question": "How long did Abigail attend Museum visit on 2022/09/05?", "answer": "3:00:00"}
+{"oid": "agenda-7046", "qid": "easy-agenda-0121", "question": "How long did Emma attend Biking adventure on 2022/02/06?", "answer": "2:30:00"}
+{"oid": "agenda-7299", "qid": "easy-agenda-0122", "question": "Who attended Historical tour between 11:00 AM and 1:00 PM on 2022/07/04 in Heritage Site?", "answer": "Natalie"}
+{"oid": "agenda-6882", "qid": "easy-agenda-0123", "question": "How long did Charlotte attend Volunteer work on 2022/06/22?", "answer": "3:00:00"}
+{"oid": "agenda-0785", "qid": "easy-agenda-0124", "question": "How long did Mia attend Book Club Meeting on 2022/09/02?", "answer": "2:00:00"}
+{"oid": "agenda-8389", "qid": "easy-agenda-0125", "question": "Who attended Pool party between 3:00 PM and 7:00 PM on 2022/06/10 in The Roosevelt Hotel?", "answer": "Penelope"}
+{"oid": "agenda-7766", "qid": "easy-agenda-0126", "question": "When did Savannah attend Coffee Date on 2022/08/10?", "answer": "11:30 AM"}
+{"oid": "agenda-2698", "qid": "easy-agenda-0127", "question": "Who attended Spanish Class between 7:00 PM and 8:00 PM on 2022/08/10 in Community College?", "answer": "Stephen"}
+{"oid": "agenda-0490", "qid": "easy-agenda-0128", "question": "Where did Happy hour with friends that Alexander attended take place on 2022/05/11?", "answer": "The Roost Bar & Grill"}
+{"oid": "agenda-3028", "qid": "easy-agenda-0129", "question": "What did Isabella do from 11:00 AM to 1:00 PM on 2022/02/01?", "answer": "Children's Museum Visit"}
+{"oid": "agenda-2604", "qid": "easy-agenda-0130", "question": "What did Amelia do from 10:00 AM to 2:00 PM on 2022/06/08?", "answer": "Family Fun Day"}
+{"oid": "agenda-9463", "qid": "easy-agenda-0131", "question": "Who attended Ice skating lesson between 11:00 AM and 12:00 PM on 2022/03/19 in Lasker Rink?", "answer": "Robert"}
+{"oid": "agenda-8098", "qid": "easy-agenda-0132", "question": "What did Evie do from 2:00 PM to 4:00 PM on 2022/06/28?", "answer": "Roller skating"}
+{"oid": "agenda-2181", "qid": "easy-agenda-0133", "question": "What did George do from 8:00 AM to 11:00 AM on 2022/08/20?", "answer": "Charity run"}
+{"oid": "agenda-6796", "qid": "easy-agenda-0134", "question": "When did Amelia attend Volunteer Work on 2022/09/26?", "answer": "9:00 AM"}
+{"oid": "agenda-8658", "qid": "easy-agenda-0135", "question": "When did Evie attend Charity gala on 2022/04/28?", "answer": "5:00 PM"}
+{"oid": "agenda-0645", "qid": "easy-agenda-0136", "question": "What did Victoria do from 5:00 PM to 7:00 PM on 2022/06/21?", "answer": "Cooking class"}
+{"oid": "agenda-3089", "qid": "easy-agenda-0137", "question": "How long did Zara attend Wedding ceremony and reception on 2022/01/22?", "answer": "8:00:00"}
+{"oid": "agenda-4555", "qid": "easy-agenda-0138", "question": "What did Ella do from 1:00 PM to 2:30 PM on 2022/05/18?", "answer": "Virtual reality gaming session"}
+{"oid": "agenda-2031", "qid": "easy-agenda-0139", "question": "Where did Science museum visit that Michael attended take place on 2022/07/23?", "answer": "California Science Center"}
+{"oid": "agenda-1765", "qid": "easy-agenda-0140", "question": "When did Charlotte attend Flamenco dance class on 2022/10/16?", "answer": "7:00 PM"}
+{"oid": "agenda-4086", "qid": "easy-agenda-0141", "question": "How long did Lily attend Hiking trip on 2022/01/17?", "answer": "4:00:00"}
+{"oid": "agenda-2745", "qid": "easy-agenda-0142", "question": "How long did Harper attend Guitar Lesson on 2022/02/08?", "answer": "1:00:00"}
+{"oid": "agenda-9099", "qid": "easy-agenda-0143", "question": "Where did Champagne tasting that Ella attended take place on 2022/03/21?", "answer": "Mums Champagne House"}
+{"oid": "agenda-7828", "qid": "easy-agenda-0144", "question": "When did Mia attend Charity Walk on 2022/05/24?", "answer": "8:00 AM"}
+{"oid": "agenda-6247", "qid": "easy-agenda-0145", "question": "How long did Matthew attend Self-care day on 2022/04/30?", "answer": "3:00:00"}
+{"oid": "agenda-7729", "qid": "easy-agenda-0146", "question": "Where did Christmas caroling that Charlotte attended take place on 2022/12/16?", "answer": "Community Center "}
+{"oid": "agenda-4270", "qid": "easy-agenda-0147", "question": "Who attended 94) Virtual beer tasting event between 6:00 PM and 7:30 PM on 2022/05/21 in Online?", "answer": "Ava"}
+{"oid": "agenda-8835", "qid": "easy-agenda-0148", "question": "Who attended Charity gala between 7:00 PM and 11:00 PM on 2022/09/02 in The Plaza Hotel Ballroom?", "answer": "Daisy"}
+{"oid": "agenda-8731", "qid": "easy-agenda-0149", "question": "When did George attend Yoga class on 2022/09/21?", "answer": "9:30 AM"}
+{"oid": "agenda-9082", "qid": "easy-agenda-0150", "question": "Who attended Paddleboarding between 10:00 AM and 12:00 PM on 2022/11/29 in Marina Del Rey Harbor?", "answer": "John"}
+{"oid": "agenda-5437", "qid": "easy-agenda-0151", "question": "When did Grace attend Executive Board Meeting on 2022/08/18?", "answer": "10:00 AM"}
+{"oid": "agenda-4839", "qid": "easy-agenda-0152", "question": "What did Jade do from 11:00 AM to 4:00 PM on 2022/06/21?", "answer": "Spend the day at a beach club"}
+{"oid": "agenda-5156", "qid": "easy-agenda-0153", "question": "What did Thomas do from 06:00 PM to 08:00 PM on 2022/05/14?", "answer": "Cooking Class"}
+{"oid": "agenda-5677", "qid": "easy-agenda-0154", "question": "Who attended Wine pub crawl between 6:00 PM and 11:00 PM on 2022/12/08 in The Wine District?", "answer": "Elsie"}
+{"oid": "agenda-4117", "qid": "easy-agenda-0155", "question": "Where did Attend a makeup tutorial that Richard attended take place on 2022/12/10?", "answer": "The Makeup Artistry Studio"}
+{"oid": "agenda-5932", "qid": "easy-agenda-0156", "question": "How long did Daniel attend Karate class on 2022/10/10?", "answer": "1:00:00"}
+{"oid": "agenda-5049", "qid": "easy-agenda-0157", "question": "How long did Charlotte attend Historical museum visit on 2022/11/16?", "answer": "2:00:00"}
+{"oid": "agenda-7692", "qid": "easy-agenda-0158", "question": "When did Ruby attend Political rally on 2022/11/25?", "answer": "11:00 AM"}
+{"oid": "agenda-0384", "qid": "easy-agenda-0159", "question": "When did Hector attend Roller skating on 2022/05/11?", "answer": "5:00 PM"}
+{"oid": "agenda-5041", "qid": "easy-agenda-0160", "question": "What did Amelia do from 10:00 AM to 3:00 PM on 2022/08/07?", "answer": "Science museum exploration"}
+{"oid": "agenda-2120", "qid": "easy-agenda-0161", "question": "How long did Faith attend Beach cleanup on 2022/05/25?", "answer": "2:00:00"}
+{"oid": "agenda-6011", "qid": "easy-agenda-0162", "question": "Who attended Theater play between 7:30 PM and 9:30 PM on 2022/11/09 in The Grand Theater?", "answer": "Felix"}
+{"oid": "agenda-3617", "qid": "easy-agenda-0163", "question": "What did David do from 7:00 PM to 10:00 PM on 2022/10/07?", "answer": "Rodeo"}
+{"oid": "agenda-8247", "qid": "easy-agenda-0164", "question": "What did Florence do from 6:00 AM to 7:30 AM on 2022/06/12?", "answer": "Fitness boot camp"}
+{"oid": "agenda-4803", "qid": "easy-agenda-0165", "question": "Who attended Happy hour with co-workers between 5:00 PM and 7:00 PM on 2022/07/14 in The Dead Rabbit?", "answer": "Esme"}
+{"oid": "agenda-8333", "qid": "easy-agenda-0166", "question": "What did Grace do from 11:00 AM to 12:30 PM on 2022/01/21?", "answer": "Contemporary dance class"}
+{"oid": "agenda-4418", "qid": "easy-agenda-0167", "question": "Who attended Jazz Concert between 8:00 PM and 11:00 PM on 2022/11/14 in The Jazz at Lincoln Center?", "answer": "Millie"}
+{"oid": "agenda-6626", "qid": "easy-agenda-0168", "question": "How long did Michael attend Film screening on 2022/11/28?", "answer": "2:00:00"}
+{"oid": "agenda-6146", "qid": "easy-agenda-0169", "question": "Where did Non-profit fund-raiser that Daniel attended take place on 2022/08/07?", "answer": "Liberty House Restaurant"}
+{"oid": "agenda-2797", "qid": "easy-agenda-0170", "question": "Where did Art fair that Emma attended take place on 2022/01/26?", "answer": "Navy Pier"}
+{"oid": "agenda-3919", "qid": "easy-agenda-0171", "question": "When did Olivia attend Tourist attraction on 2022/07/04?", "answer": "10:00 AM"}
+{"oid": "agenda-6637", "qid": "easy-agenda-0172", "question": "When did Savannah attend Kayaking on the Hudson on 2022/09/06?", "answer": "12:00 PM"}
+{"oid": "agenda-5665", "qid": "easy-agenda-0173", "question": "Where did Boardwalk stroll that Poppy attended take place on 2022/08/16?", "answer": "The Boardwalk"}
+{"oid": "agenda-0559", "qid": "easy-agenda-0174", "question": "What did Willow do from 7:00 PM to 9:00 PM on 2022/05/24?", "answer": "Skateboard art exhibit"}
+{"oid": "agenda-1635", "qid": "easy-agenda-0175", "question": "What did Samuel do from 10:00 AM to 12:00 PM on 2022/11/02?", "answer": "Shopping Spree"}
+{"oid": "agenda-7680", "qid": "easy-agenda-0176", "question": "How long did Daniel attend Walking tour on 2022/05/03?", "answer": "1:30:00"}
+{"oid": "agenda-6213", "qid": "easy-agenda-0177", "question": "How long did Edward attend Poetry slam on 2022/08/29?", "answer": "2:00:00"}
+{"oid": "agenda-8079", "qid": "easy-agenda-0178", "question": "When did Harper attend Stand-up comedy show on 2022/11/04?", "answer": "8:00 PM"}
+{"oid": "agenda-3931", "qid": "easy-agenda-0179", "question": "What did Daisy do from 8:00 PM to 10:00 PM on 2022/06/06?", "answer": "Stand-up comedy show"}
+{"oid": "agenda-5887", "qid": "easy-agenda-0180", "question": "What did Chloe do from 10:00 AM to 12:00 PM on 2022/07/24?", "answer": "Staff training session"}
+{"oid": "agenda-6288", "qid": "easy-agenda-0181", "question": "Who attended Pop-up market between 12:00 PM and 3:00 PM on 2022/08/07 in The Brooklyn Flea?", "answer": "Faith"}
+{"oid": "agenda-6196", "qid": "easy-agenda-0182", "question": "Where did Football game that Sofia attended take place on 2022/03/10?", "answer": "Yankee Stadium"}
+{"oid": "agenda-0158", "qid": "easy-agenda-0183", "question": "Who attended DIY Workshop between 7:00 PM and 9:00 PM on 2022/07/27 in The Home Depot?", "answer": "Michael"}
+{"oid": "agenda-4863", "qid": "easy-agenda-0184", "question": "Where did Go to a wine and cheese tasting that George attended take place on 2022/10/01?", "answer": "Murray's Cheese"}
+{"oid": "agenda-8937", "qid": "easy-agenda-0185", "question": "Who attended Language Lessons between 3:00 PM and 4:00 PM on 2022/08/18 in The Language Academy?", "answer": "Jessica"}
+{"oid": "agenda-1847", "qid": "easy-agenda-0186", "question": "How long did Michael attend Surfing Lesson on 2022/08/18?", "answer": "2:00:00"}
+{"oid": "agenda-8536", "qid": "easy-agenda-0187", "question": "Where did Charity Run that Grace attended take place on 2022/02/12?", "answer": "National Mall"}
+{"oid": "agenda-3506", "qid": "easy-agenda-0188", "question": "Who attended Drumming Exercise class between 8:00 AM and 9:00 AM on 2022/11/07 in Body & Brain Yoga Tai Chi?", "answer": "Willow"}
+{"oid": "agenda-2936", "qid": "easy-agenda-0189", "question": "Who attended Meditation class between 3 PM and 5 PM on 2022/09/01 in MNDFL?", "answer": "Albert"}
+{"oid": "agenda-2090", "qid": "easy-agenda-0190", "question": "What did Timothy do from 10:00 AM to 12:00 PM on 2022/05/26?", "answer": "Painting class"}
+{"oid": "agenda-1977", "qid": "easy-agenda-0191", "question": "Who attended Bubble tea tasting between 3:00 PM and 4:30 PM on 2022/02/28 in HeyTea?", "answer": "Charles"}
+{"oid": "agenda-4682", "qid": "easy-agenda-0192", "question": "When did Brian attend New Product Launch on 2022/10/01?", "answer": "11:00 AM"}
+{"oid": "agenda-4601", "qid": "easy-agenda-0193", "question": "Who attended Cocktail party between 5:00 PM and 7:00 PM on 2022/12/20 in Rooftop Bar?", "answer": "Robert"}
+{"oid": "agenda-7593", "qid": "easy-agenda-0194", "question": "What did Chloe do from 7:00 PM to 9:00 PM on 2022/05/06?", "answer": "Wine and paint night"}
+{"oid": "agenda-3758", "qid": "easy-agenda-0195", "question": "What did Lucy do from 9:00 AM to 12:00 PM on 2022/07/05?", "answer": "Community clean-up event"}
+{"oid": "agenda-5796", "qid": "easy-agenda-0196", "question": "How long did Olivia attend Axe throwing on 2022/07/05?", "answer": "2:00:00"}
+{"oid": "agenda-1325", "qid": "easy-agenda-0197", "question": "What did Millie do from 8:00 PM to 11:00 PM on 2022/10/08?", "answer": "Concert"}
+{"oid": "agenda-9185", "qid": "easy-agenda-0198", "question": "When did Maisie attend Surfing lesson on 2022/09/24?", "answer": "9:00 AM"}
+{"oid": "agenda-0350", "qid": "easy-agenda-0199", "question": "Who attended Jazz concert between 7:30 PM and 9:30 PM on 2022/05/28 in Jazz at Lincoln Center?", "answer": "Lucy"}
+{"oid": "agenda-5802", "qid": "easy-agenda-0200", "question": "What did Joshua do from 2:00 PM to 5:00 PM on 2022/12/01?", "answer": "Sweet potato festival"}
+{"oid": "agenda-5183", "qid": "easy-agenda-0201", "question": "Who attended Photography Class between 01:00 PM and 03:00 PM on 2022/05/07 in The Photography Academy?", "answer": "Emma"}
+{"oid": "agenda-4079", "qid": "easy-agenda-0202", "question": "When did Michael attend Charity fundraiser on 2022/09/14?", "answer": "6:00 PM"}
+{"oid": "agenda-5984", "qid": "easy-agenda-0203", "question": "Who attended Attend a pop-up street food market between 6:00 PM and 9:00 PM on 2022/02/27 in Riverside Square ?", "answer": "Elsie"}
+{"oid": "agenda-5541", "qid": "easy-agenda-0204", "question": "When did Emma attend Photography lesson on 2022/03/03?", "answer": "12:00 PM"}
+{"oid": "agenda-2337", "qid": "easy-agenda-0205", "question": "What did Madison do from 7:00 PM to 9:00 PM on 2022/05/26?", "answer": "Meetup activity"}
+{"oid": "agenda-8621", "qid": "easy-agenda-0206", "question": "Who attended Beer Garden between 4:00 PM and 7:00 PM on 2022/06/25 in Wunder Garten?", "answer": "Timothy"}
+{"oid": "agenda-7478", "qid": "easy-agenda-0207", "question": "When did Emily attend Therapy session on 2022/10/13?", "answer": "1:00 PM"}
+{"oid": "agenda-3830", "qid": "easy-agenda-0208", "question": "How long did Sophia attend Art show on 2022/05/17?", "answer": "3:00:00"}
+{"oid": "agenda-1488", "qid": "easy-agenda-0209", "question": "When did Savannah attend Jazz music festival on 2022/12/10?", "answer": "12:00 PM"}
+{"oid": "agenda-7036", "qid": "easy-agenda-0210", "question": "Where did Vocal lesson that Elsie attended take place on 2022/02/05?", "answer": "The Music Box"}
+{"oid": "agenda-6701", "qid": "easy-agenda-0211", "question": "When did Natalie attend Business Meeting on 2022/08/22?", "answer": "10:00 AM"}
+{"oid": "agenda-7879", "qid": "easy-agenda-0212", "question": "Who attended Flower arranging class between 4:00 PM and 6:00 PM on 2022/10/20 in The Flower School?", "answer": "Sofia"}
+{"oid": "agenda-5353", "qid": "easy-agenda-0213", "question": "What did Mia do from 7:00 PM to 9:00 PM on 2022/10/22?", "answer": "Club meeting"}
+{"oid": "agenda-6218", "qid": "easy-agenda-0214", "question": "How long did Daisy attend Basketball game on 2022/01/27?", "answer": "2:00:00"}
+{"oid": "agenda-2529", "qid": "easy-agenda-0215", "question": "What did Hannah do from 7:00 PM to 8:30 PM on 2022/08/23?", "answer": "Poetry reading"}
+{"oid": "agenda-7124", "qid": "easy-agenda-0216", "question": "Where did Visit to botanical garden that Molly attended take place on 2022/10/21?", "answer": "Brooklyn Botanic Garden"}
+{"oid": "agenda-8895", "qid": "easy-agenda-0217", "question": "How long did Olivia attend Jazz concert on 2022/09/12?", "answer": "-1 day, 3:00:00"}
+{"oid": "agenda-0500", "qid": "easy-agenda-0218", "question": "When did Jade attend Team building activity on 2022/06/09?", "answer": "2:00 PM"}
+{"oid": "agenda-5521", "qid": "easy-agenda-0219", "question": "Who attended Science Fiction Book Club between 6:00 PM and 8:00 PM on 2022/06/11 in Bookstore Downtown?", "answer": "Albert"}
+{"oid": "agenda-6548", "qid": "easy-agenda-0220", "question": "Who attended Spoken word performance between 8:00 PM and 10:00 PM on 2022/10/06 in Bowery Poetry Club?", "answer": "Edward"}
+{"oid": "agenda-7008", "qid": "easy-agenda-0221", "question": "Where did Dance party that Jasmine attended take place on 2022/05/26?", "answer": "Harbour Event Centre"}
+{"oid": "agenda-4297", "qid": "easy-agenda-0222", "question": "Who attended Piano Lessons between 3:00 PM and 4:00 PM on 2022/09/06 in Music School?", "answer": "Scarlett"}
+{"oid": "agenda-5801", "qid": "easy-agenda-0223", "question": "Where did Back-to-school fair that Daisy attended take place on 2022/07/16?", "answer": "The Local High School"}
+{"oid": "agenda-1666", "qid": "easy-agenda-0224", "question": "When did Brian attend Glow-in-the-Dark Miniature Golf on 2022/07/14?", "answer": "7:00 PM"}
+{"oid": "agenda-8924", "qid": "easy-agenda-0225", "question": "How long did Daniel attend Haunted house tour on 2022/10/12?", "answer": "2:00:00"}
+{"oid": "agenda-9413", "qid": "easy-agenda-0226", "question": "Where did Art class that George attended take place on 2022/05/02?", "answer": "Art Students League of New York"}
+{"oid": "agenda-6244", "qid": "easy-agenda-0227", "question": "Where did Quiz night that Adam attended take place on 2022/05/16?", "answer": "The Daily Pint"}
+{"oid": "agenda-0889", "qid": "easy-agenda-0228", "question": "How long did Joshua attend Beach Day on 2022/05/07?", "answer": "4:00:00"}
+{"oid": "agenda-3498", "qid": "easy-agenda-0229", "question": "Where did Intensive Spanish course that Scarlett attended take place on 2022/06/10?", "answer": "Spanish Language School NYC"}
+{"oid": "agenda-1665", "qid": "easy-agenda-0230", "question": "When did George attend Tea Ceremony on 2022/05/30?", "answer": "4:00 PM"}
+{"oid": "agenda-4164", "qid": "easy-agenda-0231", "question": "How long did Edward attend Networking dinner with industry leaders on 2022/12/10?", "answer": "2:00:00"}
+{"oid": "agenda-0207", "qid": "easy-agenda-0232", "question": "Where did Coffee meeting with a friend that Katie attended take place on 2022/06/30?", "answer": "Coffee Bean & Tea Leaf"}
+{"oid": "agenda-7076", "qid": "easy-agenda-0233", "question": "Who attended Gym workout between 1:00 PM and 2:30 PM on 2022/12/12 in Fitness First?", "answer": "Patrick"}
+{"oid": "agenda-6806", "qid": "easy-agenda-0234", "question": "Where did Wine Tasting Event that Harper attended take place on 2022/11/09?", "answer": "LCBO Summerhill"}
+{"oid": "agenda-2800", "qid": "easy-agenda-0235", "question": "When did Edward attend Networking event on 2022/01/02?", "answer": "5:00 PM"}
+{"oid": "agenda-9361", "qid": "easy-agenda-0236", "question": "When did Anthony attend Tennis lesson on 2022/11/30?", "answer": "10:00 AM"}
+{"oid": "agenda-5970", "qid": "easy-agenda-0237", "question": "Who attended Meet with career coach between 4:00 PM and 5:00 PM on 2022/08/18 in Career Center ?", "answer": "Matthew"}
+{"oid": "agenda-3697", "qid": "easy-agenda-0238", "question": "How long did Timothy attend Business Luncheon on 2022/08/02?", "answer": "2:00:00"}
+{"oid": "agenda-8743", "qid": "easy-agenda-0239", "question": "Who attended Cocktail party between 7:00 PM and 10:00 PM on 2022/04/20 in The Plaza Hotel?", "answer": "Mia"}
+{"oid": "agenda-3724", "qid": "easy-agenda-0240", "question": "What did Lucy do from 10:00 AM to 8:00 PM on 2022/04/03?", "answer": "Art and Culture Festival"}
+{"oid": "agenda-0701", "qid": "easy-agenda-0241", "question": "Where did Volunteer work at animal shelter that Samuel attended take place on 2022/10/27?", "answer": "SPCA"}
+{"oid": "agenda-0575", "qid": "easy-agenda-0242", "question": "Who attended Fashion show between 6:00 PM and 9:00 PM on 2022/11/14 in NeueHouse Hollywood?", "answer": "Olivia"}
+{"oid": "agenda-7047", "qid": "easy-agenda-0243", "question": "What did Albert do from 12:00 PM to 1:30 PM on 2022/10/07?", "answer": "Stand-up paddleboarding"}
+{"oid": "agenda-7578", "qid": "easy-agenda-0244", "question": "What did Olivia do from 1:00 PM to 3:00 PM on 2022/08/26?", "answer": "Indoor skydiving"}
+{"oid": "agenda-5682", "qid": "easy-agenda-0245", "question": "What did Ella do from 5:00 PM to 7:00 PM on 2022/09/16?", "answer": "Laser tag"}
+{"oid": "agenda-5570", "qid": "easy-agenda-0246", "question": "What did Charles do from 9:00 PM to 12:00 AM on 2022/07/29?", "answer": "Karaoke night"}
+{"oid": "agenda-1364", "qid": "easy-agenda-0247", "question": "What did Matthew do from 8:00 PM to 10:00 PM on 2022/05/24?", "answer": "Comedy movie night"}
+{"oid": "agenda-3806", "qid": "easy-agenda-0248", "question": "When did Madison attend Jazz brunch on 2022/03/24?", "answer": "11:00 AM"}
+{"oid": "agenda-5753", "qid": "easy-agenda-0249", "question": "How long did Florence attend Trivia night on 2022/10/07?", "answer": "2:00:00"}
